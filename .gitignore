@@ -20,15 +20,15 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Migration audit private data and large local artifacts
-audit/private/
-audit/screenshots/
-audit/links/
-audit/public/
-audit/source/
+# Migration audit tree (local-only; regenerate via scripts). Keep summary markdown only.
+audit/
+!audit/README.md
+!audit/MIGRATION_MANIFEST.md
+!audit/reports/
 audit/reports/*.json
 audit/reports/seo-pre-fix/
 migration/private/
+-w
 tmp/
 tsconfig.tsbuildinfo
 .vercel
