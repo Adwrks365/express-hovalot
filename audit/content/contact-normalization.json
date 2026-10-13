@@ -1,0 +1,15 @@
+{
+  "phoneVariants": 782,
+  "uniquePhoneNumbers": [
+    "0525005573",
+    "05250055732020",
+    "052500557320"
+  ],
+  "whatsappVariants": 351,
+  "uniqueWhatsAppNumbers": [
+    "972525005573"
+  ],
+  "phoneFormattingOnly": false,
+  "whatsappFormattingOnly": true,
+  "realInconsistency": true
+}

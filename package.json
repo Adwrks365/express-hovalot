@@ -1,0 +1,47 @@
+{
+  "name": "express-hovalot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "generate:wp-shortlinks": "node scripts/generate-wp-shortlink-redirects.mjs",
+    "start": "next start",
+    "lint": "eslint .",
+    "import:content": "node scripts/import-content.mjs",
+    "download:media": "node scripts/download-media.mjs",
+    "validate:migration": "node scripts/validate-migration.mjs",
+    "inventory:2b": "node scripts/build-phase-2b-inventory.mjs",
+    "redirects:2b": "node scripts/build-redirect-map.mjs",
+    "crawl:2b": "node scripts/phase-2b-local-crawl.mjs",
+    "reconcile:2b": "node scripts/phase-2b-route-reconciliation.mjs",
+    "parity:2b": "node scripts/phase-2b-content-parity.mjs",
+    "audit:seo:redirects": "node scripts/audit-redirects.mjs",
+    "audit:seo:meta": "node scripts/audit-serp-metadata.mjs",
+    "audit:seo:headings": "node scripts/audit-headings.mjs",
+    "audit:seo:links": "node scripts/audit-internal-links-seo.mjs",
+    "audit:seo:report": "node scripts/compile-seo-pre-fix-diagnostic.mjs",
+    "audit:seo": "node scripts/audit-redirects.mjs && node scripts/audit-serp-metadata.mjs && node scripts/audit-headings.mjs && node scripts/audit-internal-links-seo.mjs && node scripts/compile-seo-pre-fix-diagnostic.mjs"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.6.1",
+    "cheerio": "^1.2.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.8",
+    "next": "^16.3.8",
+    "postcss": "^8.5.29",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "resend": "^6.32.1",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3"
+  },
+  "devDependencies": {
+    "playwright": "^1.63.0",
+    "sharp": "^0.35.5"
+  }
+}

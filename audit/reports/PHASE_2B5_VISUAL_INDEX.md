@@ -1,0 +1,76 @@
+# Phase 2B.5 — Visual Index
+
+Generated: 2026-10-07T13:56:35.151Z
+
+| URL | Status | Text parity | Production | Local |
+|-----|--------|------------:|------------|-------|
+| /הכנה-נכונה-להובלת-דירה-בירושלים-5-טיפי | FAIL | 64% | audit\screenshots\phase-2b5-production\הכנה-נכונה-להובלת-דירה-בירושלים-5-טיפי-desktop.png | audit\screenshots\phase-2b5-local\הכנה-נכונה-להובלת-דירה-בירושלים-5-טיפי-desktop.png |
+| /מעבר-דירה-בחורף-בירושלים | FAIL | 75% | audit\screenshots\phase-2b5-production\מעבר-דירה-בחורף-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\מעבר-דירה-בחורף-בירושלים-desktop.png |
+| /מדריך-המומחים-כך-תעברו-דירה-בירושלים-ב | FAIL | 73% | audit\screenshots\phase-2b5-production\מדריך-המומחים-כך-תעברו-דירה-בירושלים-ב-desktop.png | audit\screenshots\phase-2b5-local\מדריך-המומחים-כך-תעברו-דירה-בירושלים-ב-desktop.png |
+| /מעבר-דירה-בירושלים | FAIL | 86% | audit\screenshots\phase-2b5-production\מעבר-דירה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\מעבר-דירה-בירושלים-desktop.png |
+| /הובלות-מירושלים | FAIL | 83% | audit\screenshots\phase-2b5-production\הובלות-מירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-מירושלים-desktop.png |
+| /הזמן-הכי-טוב-לבצע-הובלה-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 91% | audit\screenshots\phase-2b5-production\הזמן-הכי-טוב-לבצע-הובלה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הזמן-הכי-טוב-לבצע-הובלה-בירושלים-desktop.png |
+| /הובלת-פריטים-בודדים-בירושלים | FAIL | 64% | audit\screenshots\phase-2b5-production\הובלת-פריטים-בודדים-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-פריטים-בודדים-בירושלים-desktop.png |
+| /הובלות-סטודנטים-בירושלים-מדריך-למעבר | FAIL | 64% | audit\screenshots\phase-2b5-production\הובלות-סטודנטים-בירושלים-מדריך-למעבר-desktop.png | audit\screenshots\phase-2b5-local\הובלות-סטודנטים-בירושלים-מדריך-למעבר-desktop.png |
+| /הובלות-מוצרי-חשמל-בירושלים | FAIL | 65% | audit\screenshots\phase-2b5-production\הובלות-מוצרי-חשמל-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-מוצרי-חשמל-בירושלים-desktop.png |
+| /הובלות-בירושלים | FAIL | 90% | audit\screenshots\phase-2b5-production\הובלות-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בירושלים-desktop.png |
+| /הובלות-בירושלים-2025 | FAIL | 80% | audit\screenshots\phase-2b5-production\הובלות-בירושלים-2025-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בירושלים-2025-desktop.png |
+| /הובלת-פריט-בודד-בירושלים-מדריך | FAIL | 77% | audit\screenshots\phase-2b5-production\הובלת-פריט-בודד-בירושלים-מדריך-desktop.png | audit\screenshots\phase-2b5-local\הובלת-פריט-בודד-בירושלים-מדריך-desktop.png |
+| /הובלות-בירושלים-המדריך-למעבר-דירה | FAIL | 77% | audit\screenshots\phase-2b5-production\הובלות-בירושלים-המדריך-למעבר-דירה-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בירושלים-המדריך-למעבר-דירה-desktop.png |
+| /הובלת-דירה-הובלות-קטנות | FAIL | 82% | audit\screenshots\phase-2b5-production\הובלת-דירה-הובלות-קטנות-desktop.png | audit\screenshots\phase-2b5-local\הובלת-דירה-הובלות-קטנות-desktop.png |
+| /הובלות-קטנות-בירושלים-המדריך-המלא | FAIL | 72% | audit\screenshots\phase-2b5-production\הובלות-קטנות-בירושלים-המדריך-המלא-desktop.png | audit\screenshots\phase-2b5-local\הובלות-קטנות-בירושלים-המדריך-המלא-desktop.png |
+| /כמה-עולה-הובלת-דירה-בירושלים-ב-2026 | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 91% | audit\screenshots\phase-2b5-production\כמה-עולה-הובלת-דירה-בירושלים-ב-2026-desktop.png | audit\screenshots\phase-2b5-local\כמה-עולה-הובלת-דירה-בירושלים-ב-2026-desktop.png |
+| / | FAIL | 80% | audit\screenshots\phase-2b5-production\home-desktop.png | audit\screenshots\phase-2b5-local\home-desktop.png |
+| /שגיאה-404-1 | FAIL | 0% | audit\screenshots\phase-2b5-production\שגיאה-404-1-desktop.png | audit\screenshots\phase-2b5-local\שגיאה-404-1-desktop.png |
+| /שגיאה-404-2 | FAIL | 0% | audit\screenshots\phase-2b5-production\שגיאה-404-2-desktop.png | audit\screenshots\phase-2b5-local\שגיאה-404-2-desktop.png |
+| /תודה-רבה | FAIL | 89% | audit\screenshots\phase-2b5-production\תודה-רבה-desktop.png | audit\screenshots\phase-2b5-local\תודה-רבה-desktop.png |
+| /דף-נחיתה | EXACT | 100% | audit\screenshots\phase-2b5-production\דף-נחיתה-desktop.png | audit\screenshots\phase-2b5-local\דף-נחיתה-desktop.png |
+| /accessibility-statement | FAIL | 90% | audit\screenshots\phase-2b5-production\accessibility-statement-desktop.png | audit\screenshots\phase-2b5-local\accessibility-statement-desktop.png |
+| /terms-of-use | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 94% | audit\screenshots\phase-2b5-production\terms-of-use-desktop.png | audit\screenshots\phase-2b5-local\terms-of-use-desktop.png |
+| /site-map | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 97% | audit\screenshots\phase-2b5-production\site-map-desktop.png | audit\screenshots\phase-2b5-local\site-map-desktop.png |
+| /blog | FAIL | 59% | audit\screenshots\phase-2b5-production\blog-desktop.png | audit\screenshots\phase-2b5-local\blog-desktop.png |
+| /privacy-policy | EXACT | 100% | audit\screenshots\phase-2b5-production\privacy-policy-desktop.png | audit\screenshots\phase-2b5-local\privacy-policy-desktop.png |
+| /about-us | FAIL | 89% | audit\screenshots\phase-2b5-production\about-us-desktop.png | audit\screenshots\phase-2b5-local\about-us-desktop.png |
+| /הובלות-באזור-ירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 96% | audit\screenshots\phase-2b5-production\הובלות-באזור-ירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-באזור-ירושלים-desktop.png |
+| /הובלות-משרדים-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלות-משרדים-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-משרדים-בירושלים-desktop.png |
+| /הובלות-מנוף-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלות-מנוף-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-מנוף-בירושלים-desktop.png |
+| /הובלות-מיוחדות-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלות-מיוחדות-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-מיוחדות-בירושלים-desktop.png |
+| /אחסון-תכולת-דירה | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\אחסון-תכולת-דירה-desktop.png | audit\screenshots\phase-2b5-local\אחסון-תכולת-דירה-desktop.png |
+| /הובלת-בית-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלת-בית-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-בית-בירושלים-desktop.png |
+| /מדריך-מעבר-דירה-ירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\מדריך-מעבר-דירה-ירושלים-desktop.png | audit\screenshots\phase-2b5-local\מדריך-מעבר-דירה-ירושלים-desktop.png |
+| /הובלת-משטחים-במרכז | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 96% | audit\screenshots\phase-2b5-production\הובלת-משטחים-במרכז-desktop.png | audit\screenshots\phase-2b5-local\הובלת-משטחים-במרכז-desktop.png |
+| /אחסון-משטחים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\אחסון-משטחים-desktop.png | audit\screenshots\phase-2b5-local\אחסון-משטחים-desktop.png |
+| /הובלת-דירה-מירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\הובלת-דירה-מירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-דירה-מירושלים-desktop.png |
+| /שאלות-נפוצות | EXACT | 99% | audit\screenshots\phase-2b5-production\שאלות-נפוצות-desktop.png | audit\screenshots\phase-2b5-local\שאלות-נפוצות-desktop.png |
+| /הובלות-דחופות-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלות-דחופות-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-דחופות-בירושלים-desktop.png |
+| /מחיר-אחסון-תכולה-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\מחיר-אחסון-תכולה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\מחיר-אחסון-תכולה-בירושלים-desktop.png |
+| /מחירי-הובלת-דירות | FAIL | 66% | audit\screenshots\phase-2b5-production\מחירי-הובלת-דירות-desktop.png | audit\screenshots\phase-2b5-local\מחירי-הובלת-דירות-desktop.png |
+| /שירותי-הובלה | EXACT | 98% | audit\screenshots\phase-2b5-production\שירותי-הובלה-desktop.png | audit\screenshots\phase-2b5-local\שירותי-הובלה-desktop.png |
+| /חברת-אריזה-והובלה-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\חברת-אריזה-והובלה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\חברת-אריזה-והובלה-בירושלים-desktop.png |
+| /אחסון-תכולה-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\אחסון-תכולה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\אחסון-תכולה-בירושלים-desktop.png |
+| /אחסון-תכולה-לטווח-ארוך | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\אחסון-תכולה-לטווח-ארוך-desktop.png | audit\screenshots\phase-2b5-local\אחסון-תכולה-לטווח-ארוך-desktop.png |
+| /צרו-קשר | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 93% | audit\screenshots\phase-2b5-production\צרו-קשר-desktop.png | audit\screenshots\phase-2b5-local\צרו-קשר-desktop.png |
+| /הצעת-מחיר | FAIL | 70% | audit\screenshots\phase-2b5-production\הצעת-מחיר-desktop.png | audit\screenshots\phase-2b5-local\הצעת-מחיר-desktop.png |
+| /הובלת-דירה-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלת-דירה-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-דירה-בירושלים-desktop.png |
+| /הובלות-קטנות-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלות-קטנות-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-קטנות-בירושלים-desktop.png |
+| /מוביל-בירושלים-והסביבה | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\מוביל-בירושלים-והסביבה-desktop.png | audit\screenshots\phase-2b5-local\מוביל-בירושלים-והסביבה-desktop.png |
+| /הובלת-משטחים-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלת-משטחים-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-משטחים-בירושלים-desktop.png |
+| /אחסון-תכולה-לטווח-קצר | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 98% | audit\screenshots\phase-2b5-production\אחסון-תכולה-לטווח-קצר-desktop.png | audit\screenshots\phase-2b5-local\אחסון-תכולה-לטווח-קצר-desktop.png |
+| /הובלות-בבית-שמש | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 93% | audit\screenshots\phase-2b5-production\הובלות-בבית-שמש-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בבית-שמש-desktop.png |
+| /הובלות-באבו-גוש | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 94% | audit\screenshots\phase-2b5-production\הובלות-באבו-גוש-desktop.png | audit\screenshots\phase-2b5-local\הובלות-באבו-גוש-desktop.png |
+| /הובלות-במודיעין | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 94% | audit\screenshots\phase-2b5-production\הובלות-במודיעין-desktop.png | audit\screenshots\phase-2b5-local\הובלות-במודיעין-desktop.png |
+| /הובלות-בגבעת-זאב | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 93% | audit\screenshots\phase-2b5-production\הובלות-בגבעת-זאב-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בגבעת-זאב-desktop.png |
+| /הובלות-במבשרת-ציון | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 93% | audit\screenshots\phase-2b5-production\הובלות-במבשרת-ציון-desktop.png | audit\screenshots\phase-2b5-local\הובלות-במבשרת-ציון-desktop.png |
+| /הובלות-בפסגת-זאב | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 96% | audit\screenshots\phase-2b5-production\הובלות-בפסגת-זאב-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בפסגת-זאב-desktop.png |
+| /הובלות-בגוש-עציון | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 95% | audit\screenshots\phase-2b5-production\הובלות-בגוש-עציון-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בגוש-עציון-desktop.png |
+| /הובלות-בביתר-עילית | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 94% | audit\screenshots\phase-2b5-production\הובלות-בביתר-עילית-desktop.png | audit\screenshots\phase-2b5-local\הובלות-בביתר-עילית-desktop.png |
+| /הובלת-פריט-בודד-בירושלים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 99% | audit\screenshots\phase-2b5-production\הובלת-פריט-בודד-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\הובלת-פריט-בודד-בירושלים-desktop.png |
+| /הובלות-במעלה-אדומים | EXACT_WITH_GLOBAL_TEMPLATE_NORMALIZATION | 94% | audit\screenshots\phase-2b5-production\הובלות-במעלה-אדומים-desktop.png | audit\screenshots\phase-2b5-local\הובלות-במעלה-אדומים-desktop.png |
+| /category/moving-by-region | FAIL | 72% | audit\screenshots\phase-2b5-production\category_moving-by-region-desktop.png | audit\screenshots\phase-2b5-local\category_moving-by-region-desktop.png |
+| /category/moving-tips | FAIL | 77% | audit\screenshots\phase-2b5-production\category_moving-tips-desktop.png | audit\screenshots\phase-2b5-local\category_moving-tips-desktop.png |
+| /category/prices-costs | FAIL | 67% | audit\screenshots\phase-2b5-production\category_prices-costs-desktop.png | audit\screenshots\phase-2b5-local\category_prices-costs-desktop.png |
+| /category/moving-services | FAIL | 70% | audit\screenshots\phase-2b5-production\category_moving-services-desktop.png | audit\screenshots\phase-2b5-local\category_moving-services-desktop.png |
+| /tag/הובלות-בירושלים | FAIL | 0% | audit\screenshots\phase-2b5-production\tag_הובלות-בירושלים-desktop.png | audit\screenshots\phase-2b5-local\tag_הובלות-בירושלים-desktop.png |
+| /tag/הובלות-קטנות | FAIL | 0% | audit\screenshots\phase-2b5-production\tag_הובלות-קטנות-desktop.png | audit\screenshots\phase-2b5-local\tag_הובלות-קטנות-desktop.png |
+| /tag/מעבר-דירה | FAIL | 0% | audit\screenshots\phase-2b5-production\tag_מעבר-דירה-desktop.png | audit\screenshots\phase-2b5-local\tag_מעבר-דירה-desktop.png |
+| /author/guest_2020 | FAIL | 76% | audit\screenshots\phase-2b5-production\author_guest_2020-desktop.png | audit\screenshots\phase-2b5-local\author_guest_2020-desktop.png |

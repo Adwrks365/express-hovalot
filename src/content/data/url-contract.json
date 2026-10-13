@@ -1,0 +1,737 @@
+{
+  "generated": "2026-10-06T09:30:53.984Z",
+  "preserveExact": 70,
+  "redirectRules": 3,
+  "items": [
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%9b%d7%a0%d7%94-%d7%a0%d7%9b%d7%95%d7%a0%d7%94-%d7%9c%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-5-%d7%98%d7%99%d7%a4%d7%99/",
+      "requiredNewPath": "/הכנה-נכונה-להובלת-דירה-בירושלים-5-טיפי",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הכנה-נכונה-להובלת-דירה-בירושלים-5-טיפי/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%a2%d7%91%d7%a8-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%97%d7%95%d7%a8%d7%a3-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/מעבר-דירה-בחורף-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מעבר-דירה-בחורף-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%94%d7%9e%d7%95%d7%9e%d7%97%d7%99%d7%9d-%d7%9b%d7%9a-%d7%aa%d7%a2%d7%91%d7%a8%d7%95-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%91/",
+      "requiredNewPath": "/מדריך-המומחים-כך-תעברו-דירה-בירושלים-ב",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מדריך-המומחים-כך-תעברו-דירה-בירושלים-ב/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%a2%d7%91%d7%a8-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/מעבר-דירה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מעבר-דירה-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-מירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-מירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%96%d7%9e%d7%9f-%d7%94%d7%9b%d7%99-%d7%98%d7%95%d7%91-%d7%9c%d7%91%d7%a6%d7%a2-%d7%94%d7%95%d7%91%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הזמן-הכי-טוב-לבצע-הובלה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הזמן-הכי-טוב-לבצע-הובלה-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%a4%d7%a8%d7%99%d7%98%d7%99%d7%9d-%d7%91%d7%95%d7%93%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-פריטים-בודדים-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-פריטים-בודדים-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%9e%d7%a2%d7%91%d7%a8/",
+      "requiredNewPath": "/הובלות-סטודנטים-בירושלים-מדריך-למעבר",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-סטודנטים-בירושלים-מדריך-למעבר/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%95%d7%a6%d7%a8%d7%99-%d7%97%d7%a9%d7%9e%d7%9c-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-מוצרי-חשמל-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-מוצרי-חשמל-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-2025/",
+      "requiredNewPath": "/הובלות-בירושלים-2025",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בירושלים-2025/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%a4%d7%a8%d7%99%d7%98-%d7%91%d7%95%d7%93%d7%93-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%9e%d7%93%d7%a8%d7%99%d7%9a/",
+      "requiredNewPath": "/הובלת-פריט-בודד-בירושלים-מדריך",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-פריט-בודד-בירושלים-מדריך/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9c%d7%9e%d7%a2%d7%91%d7%a8-%d7%93%d7%99%d7%a8%d7%94/",
+      "requiredNewPath": "/הובלות-בירושלים-המדריך-למעבר-דירה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בירושלים-המדריך-למעבר-דירה/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa/",
+      "requiredNewPath": "/הובלת-דירה-הובלות-קטנות",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-דירה-הובלות-קטנות/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%94%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%94%d7%9e%d7%9c%d7%90/",
+      "requiredNewPath": "/הובלות-קטנות-בירושלים-המדריך-המלא",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-קטנות-בירושלים-המדריך-המלא/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9b%d7%9e%d7%94-%d7%a2%d7%95%d7%9c%d7%94-%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%91-2026/",
+      "requiredNewPath": "/כמה-עולה-הובלת-דירה-בירושלים-ב-2026",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/כמה-עולה-הובלת-דירה-בירושלים-ב-2026/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/",
+      "requiredNewPath": "/",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/",
+      "contentType": "page",
+      "redirectRequirement": "none",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%a9%d7%92%d7%99%d7%90%d7%94-404-1/",
+      "requiredNewPath": "/שגיאה-404-1",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/שגיאה-404-1/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%a9%d7%92%d7%99%d7%90%d7%94-404-2/",
+      "requiredNewPath": "/שגיאה-404-2",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/שגיאה-404-2/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%aa%d7%95%d7%93%d7%94-%d7%a8%d7%91%d7%94/",
+      "requiredNewPath": "/תודה-רבה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/תודה-רבה/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%93%d7%a3-%d7%a0%d7%97%d7%99%d7%aa%d7%94/",
+      "requiredNewPath": "/דף-נחיתה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/דף-נחיתה/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/accessibility-statement/",
+      "requiredNewPath": "/accessibility-statement",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/accessibility-statement/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/terms-of-use/",
+      "requiredNewPath": "/terms-of-use",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/terms-of-use/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/site-map/",
+      "requiredNewPath": "/site-map",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/site-map/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/blog/",
+      "requiredNewPath": "/blog",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/blog/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/privacy-policy/",
+      "requiredNewPath": "/privacy-policy",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/privacy-policy/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/about-us/",
+      "requiredNewPath": "/about-us",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/about-us/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%90%d7%96%d7%95%d7%a8-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-באזור-ירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-באזור-ירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-משרדים-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-משרדים-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%a0%d7%95%d7%a3-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-מנוף-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-מנוף-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%99%d7%95%d7%97%d7%93%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-מיוחדות-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-מיוחדות-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94/",
+      "requiredNewPath": "/אחסון-תכולת-דירה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/אחסון-תכולת-דירה/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%91%d7%99%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-בית-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-בית-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%93%d7%a8%d7%99%d7%9a-%d7%9e%d7%a2%d7%91%d7%a8-%d7%93%d7%99%d7%a8%d7%94-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/מדריך-מעבר-דירה-ירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מדריך-מעבר-דירה-ירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%9e%d7%a9%d7%98%d7%97%d7%99%d7%9d-%d7%91%d7%9e%d7%a8%d7%9b%d7%96/",
+      "requiredNewPath": "/הובלת-משטחים-במרכז",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-משטחים-במרכז/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%9e%d7%a9%d7%98%d7%97%d7%99%d7%9d/",
+      "requiredNewPath": "/אחסון-משטחים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/אחסון-משטחים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%9e%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-דירה-מירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-דירה-מירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%a0%d7%a4%d7%95%d7%a6%d7%95%d7%aa/",
+      "requiredNewPath": "/שאלות-נפוצות",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/שאלות-נפוצות/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%93%d7%97%d7%95%d7%a4%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-דחופות-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-דחופות-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%97%d7%99%d7%a8-%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/מחיר-אחסון-תכולה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מחיר-אחסון-תכולה-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%97%d7%99%d7%a8%d7%99-%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%95%d7%aa/",
+      "requiredNewPath": "/מחירי-הובלת-דירות",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מחירי-הובלת-דירות/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%a9%d7%99%d7%a8%d7%95%d7%aa%d7%99-%d7%94%d7%95%d7%91%d7%9c%d7%94/",
+      "requiredNewPath": "/שירותי-הובלה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/שירותי-הובלה/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%97%d7%91%d7%a8%d7%aa-%d7%90%d7%a8%d7%99%d7%96%d7%94-%d7%95%d7%94%d7%95%d7%91%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/חברת-אריזה-והובלה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/חברת-אריזה-והובלה-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/אחסון-תכולה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/אחסון-תכולה-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%9c%d7%98%d7%95%d7%95%d7%97-%d7%90%d7%a8%d7%95%d7%9a/",
+      "requiredNewPath": "/אחסון-תכולה-לטווח-ארוך",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/אחסון-תכולה-לטווח-ארוך/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8/",
+      "requiredNewPath": "/צרו-קשר",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/צרו-קשר/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%a6%d7%a2%d7%aa-%d7%9e%d7%97%d7%99%d7%a8/",
+      "requiredNewPath": "/הצעת-מחיר",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הצעת-מחיר/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-דירה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-דירה-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-קטנות-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-קטנות-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%9e%d7%95%d7%91%d7%99%d7%9c-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d-%d7%95%d7%94%d7%a1%d7%91%d7%99%d7%91%d7%94/",
+      "requiredNewPath": "/מוביל-בירושלים-והסביבה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/מוביל-בירושלים-והסביבה/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%9e%d7%a9%d7%98%d7%97%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-משטחים-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-משטחים-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%9c%d7%98%d7%95%d7%95%d7%97-%d7%a7%d7%a6%d7%a8/",
+      "requiredNewPath": "/אחסון-תכולה-לטווח-קצר",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/אחסון-תכולה-לטווח-קצר/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9e%d7%a9/",
+      "requiredNewPath": "/הובלות-בבית-שמש",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בבית-שמש/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%90%d7%91%d7%95-%d7%92%d7%95%d7%a9/",
+      "requiredNewPath": "/הובלות-באבו-גוש",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-באבו-גוש/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%95%d7%93%d7%99%d7%a2%d7%99%d7%9f/",
+      "requiredNewPath": "/הובלות-במודיעין",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-במודיעין/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%92%d7%91%d7%a2%d7%aa-%d7%96%d7%90%d7%91/",
+      "requiredNewPath": "/הובלות-בגבעת-זאב",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בגבעת-זאב/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%91%d7%a9%d7%a8%d7%aa-%d7%a6%d7%99%d7%95%d7%9f/",
+      "requiredNewPath": "/הובלות-במבשרת-ציון",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-במבשרת-ציון/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%a4%d7%a1%d7%92%d7%aa-%d7%96%d7%90%d7%91/",
+      "requiredNewPath": "/הובלות-בפסגת-זאב",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בפסגת-זאב/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%92%d7%95%d7%a9-%d7%a2%d7%a6%d7%99%d7%95%d7%9f/",
+      "requiredNewPath": "/הובלות-בגוש-עציון",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בגוש-עציון/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%91%d7%99%d7%aa%d7%a8-%d7%a2%d7%99%d7%9c%d7%99%d7%aa/",
+      "requiredNewPath": "/הובלות-בביתר-עילית",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-בביתר-עילית/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%a4%d7%a8%d7%99%d7%98-%d7%91%d7%95%d7%93%d7%93-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלת-פריט-בודד-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלת-פריט-בודד-בירושלים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%a2%d7%9c%d7%94-%d7%90%d7%93%d7%95%d7%9e%d7%99%d7%9d/",
+      "requiredNewPath": "/הובלות-במעלה-אדומים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הובלות-במעלה-אדומים/",
+      "contentType": "page",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/moving-by-region/",
+      "requiredNewPath": "/category/moving-by-region",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/category/moving-by-region/",
+      "contentType": "category",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/moving-tips/",
+      "requiredNewPath": "/category/moving-tips",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/category/moving-tips/",
+      "contentType": "category",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/prices-costs/",
+      "requiredNewPath": "/category/prices-costs",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/category/prices-costs/",
+      "contentType": "category",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/moving-services/",
+      "requiredNewPath": "/category/moving-services",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/category/moving-services/",
+      "contentType": "category",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/tag/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/",
+      "requiredNewPath": "/tag/הובלות-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/tag/הובלות-בירושלים/",
+      "contentType": "tag",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/tag/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%a7%d7%98%d7%a0%d7%95%d7%aa/",
+      "requiredNewPath": "/tag/הובלות-קטנות",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/tag/הובלות-קטנות/",
+      "contentType": "tag",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/tag/%d7%9e%d7%a2%d7%91%d7%a8-%d7%93%d7%99%d7%a8%d7%94/",
+      "requiredNewPath": "/tag/מעבר-דירה",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/tag/מעבר-דירה/",
+      "contentType": "tag",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/author/guest_2020/",
+      "requiredNewPath": "/author/guest_2020",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/author/guest_2020/",
+      "contentType": "author",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "PRESERVE EXACT URL — sitemap member"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/moving-tips/page/2",
+      "requiredNewPath": "/category/moving-tips/page/2/",
+      "expectedStatus": 301,
+      "expectedIndexability": "redirect to canonical",
+      "expectedCanonical": "https://express-hovalot.co.il/category/moving-tips/page/2/",
+      "contentType": "duplicate-variant",
+      "redirectRequirement": "301 to https://express-hovalot.co.il/category/moving-tips/page/2/",
+      "notes": "Non-sitemap indexable variant — do not create duplicate indexed route"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/category/moving-services/page/2",
+      "requiredNewPath": "/category/moving-services/page/2/",
+      "expectedStatus": 301,
+      "expectedIndexability": "redirect to canonical",
+      "expectedCanonical": "https://express-hovalot.co.il/category/moving-services/page/2/",
+      "contentType": "duplicate-variant",
+      "redirectRequirement": "301 to https://express-hovalot.co.il/category/moving-services/page/2/",
+      "notes": "Non-sitemap indexable variant — do not create duplicate indexed route"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/author/guest_2020/page/2",
+      "requiredNewPath": "/author/guest_2020/page/2/",
+      "expectedStatus": 301,
+      "expectedIndexability": "redirect to canonical",
+      "expectedCanonical": "https://express-hovalot.co.il/author/guest_2020/page/2/",
+      "contentType": "duplicate-variant",
+      "redirectRequirement": "301 to https://express-hovalot.co.il/author/guest_2020/page/2/",
+      "notes": "Non-sitemap indexable variant — do not create duplicate indexed route"
+    }
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "count": 7,
+  "categories": [
+    {
+      "id": 1,
+      "count": 0,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/uncategorized/",
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Uncategorized Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/uncategorized/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Uncategorized Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/uncategorized/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/uncategorized\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/uncategorized\\/\",\"name\":\"Uncategorized Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/uncategorized\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/uncategorized\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Uncategorized\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "Uncategorized Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/uncategorized/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "Uncategorized Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/uncategorized/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/uncategorized/",
+              "url": "https://express-hovalot.co.il/category/uncategorized/",
+              "name": "Uncategorized Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/uncategorized/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/uncategorized/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Uncategorized"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/1",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=1"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "count": 6,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/moving-by-region/",
+      "name": "הובלות לפי אזור",
+      "slug": "moving-by-region",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>הובלות לפי אזור Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/moving-by-region/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"הובלות לפי אזור Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/moving-by-region/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-by-region\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-by-region\\/\",\"name\":\"הובלות לפי אזור Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-by-region\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-by-region\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"הובלות לפי אזור\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "הובלות לפי אזור Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/moving-by-region/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "הובלות לפי אזור Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/moving-by-region/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/moving-by-region/",
+              "url": "https://express-hovalot.co.il/category/moving-by-region/",
+              "name": "הובלות לפי אזור Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/moving-by-region/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/moving-by-region/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "הובלות לפי אזור"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/40",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=40"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "count": 12,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/moving-tips/",
+      "name": "טיפים ומדריכים להובלה",
+      "slug": "moving-tips",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/moving-tips/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/moving-tips/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-tips\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-tips\\/\",\"name\":\"טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-tips\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-tips\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"טיפים ומדריכים להובלה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/moving-tips/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/moving-tips/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/moving-tips/",
+              "url": "https://express-hovalot.co.il/category/moving-tips/",
+              "name": "טיפים ומדריכים להובלה Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/moving-tips/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/moving-tips/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "טיפים ומדריכים להובלה"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/39",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=39"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "count": 1,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/prices-costs/",
+      "name": "מחירים ועלויות",
+      "slug": "prices-costs",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>מחירים ועלויות Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/prices-costs/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"מחירים ועלויות Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/prices-costs/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/prices-costs\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/prices-costs\\/\",\"name\":\"מחירים ועלויות Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/prices-costs\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/prices-costs\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"מחירים ועלויות\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "מחירים ועלויות Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/prices-costs/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "מחירים ועלויות Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/prices-costs/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/prices-costs/",
+              "url": "https://express-hovalot.co.il/category/prices-costs/",
+              "name": "מחירים ועלויות Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/prices-costs/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/prices-costs/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "מחירים ועלויות"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/37",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=37"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "count": 0,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/disassembly-packaging/",
+      "name": "פירוק - אריזה",
+      "slug": "disassembly-packaging",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>פירוק - אריזה Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/disassembly-packaging/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"פירוק - אריזה Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/disassembly-packaging/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/disassembly-packaging\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/disassembly-packaging\\/\",\"name\":\"פירוק - אריזה Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/disassembly-packaging\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/disassembly-packaging\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"פירוק - אריזה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "פירוק - אריזה Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/disassembly-packaging/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "פירוק - אריזה Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/disassembly-packaging/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/disassembly-packaging/",
+              "url": "https://express-hovalot.co.il/category/disassembly-packaging/",
+              "name": "פירוק - אריזה Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/disassembly-packaging/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/disassembly-packaging/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "פירוק - אריזה"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/36",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=36"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "count": 0,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/storage-services/",
+      "name": "שירותי אחסון",
+      "slug": "storage-services",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>שירותי אחסון Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/storage-services/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"שירותי אחסון Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/storage-services/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/storage-services\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/storage-services\\/\",\"name\":\"שירותי אחסון Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/storage-services\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/storage-services\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"שירותי אחסון\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "שירותי אחסון Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/storage-services/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "שירותי אחסון Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/storage-services/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/storage-services/",
+              "url": "https://express-hovalot.co.il/category/storage-services/",
+              "name": "שירותי אחסון Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/storage-services/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/storage-services/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "שירותי אחסון"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/35",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=35"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "count": 15,
+      "description": "",
+      "link": "https://express-hovalot.co.il/category/moving-services/",
+      "name": "שירותי הובלה",
+      "slug": "moving-services",
+      "taxonomy": "category",
+      "parent": 0,
+      "meta": [],
+      "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>שירותי הובלה Archives - אקספרס הובלות בירושלים</title>\n<!-- מנהל שים לב: דף זה לא מציג תיאור מטא בגלל שאין לו תיאור. ניתן לכתוב תיאור ספציפי לעמוד זה או לגשת לתפריט [Yoast SEO - הגדרות] וליצור תיאור גנרי. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://express-hovalot.co.il/category/moving-services/\" />\n<meta property=\"og:locale\" content=\"he_IL\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"שירותי הובלה Archives - אקספרס הובלות בירושלים\" />\n<meta property=\"og:url\" content=\"https://express-hovalot.co.il/category/moving-services/\" />\n<meta property=\"og:site_name\" content=\"אקספרס הובלות בירושלים\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-services\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-services\\/\",\"name\":\"שירותי הובלה Archives - אקספרס הובלות בירושלים\",\"isPartOf\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-services\\/#breadcrumb\"},\"inLanguage\":\"he-IL\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/category\\/moving-services\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/express-hovalot.co.il\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"שירותי הובלה\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#website\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"name\":\"אקספרס הובלות בירושלים\",\"description\":\"שירותי הובלה ואחסנה בירושלים והסביבה\",\"publisher\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/express-hovalot.co.il\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"he-IL\"},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#organization\",\"name\":\"אקספרס הובלות\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"he-IL\",\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\",\"url\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"contentUrl\":\"https:\\/\\/express-hovalot.co.il\\/wp-content\\/uploads\\/2025\\/04\\/favicon.svg\",\"width\":61,\"height\":61,\"caption\":\"אקספרס הובלות\"},\"image\":{\"@id\":\"https:\\/\\/express-hovalot.co.il\\/#\\/schema\\/logo\\/image\\/\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/expresshovalot\",\"https:\\/\\/share.google\\/6OtoXR2bvfjVFdPl8\",\"https:\\/\\/www.google.com\\/maps\\/search\\/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM\"]}]}</script>\n<!-- / Yoast SEO plugin. -->",
+      "yoast_head_json": {
+        "title": "שירותי הובלה Archives - אקספרס הובלות בירושלים",
+        "robots": {
+          "index": "index",
+          "follow": "follow",
+          "max-snippet": "max-snippet:-1",
+          "max-image-preview": "max-image-preview:large",
+          "max-video-preview": "max-video-preview:-1"
+        },
+        "canonical": "https://express-hovalot.co.il/category/moving-services/",
+        "og_locale": "he_IL",
+        "og_type": "article",
+        "og_title": "שירותי הובלה Archives - אקספרס הובלות בירושלים",
+        "og_url": "https://express-hovalot.co.il/category/moving-services/",
+        "og_site_name": "אקספרס הובלות בירושלים",
+        "twitter_card": "summary_large_image",
+        "schema": {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+              "@type": "CollectionPage",
+              "@id": "https://express-hovalot.co.il/category/moving-services/",
+              "url": "https://express-hovalot.co.il/category/moving-services/",
+              "name": "שירותי הובלה Archives - אקספרס הובלות בירושלים",
+              "isPartOf": {
+                "@id": "https://express-hovalot.co.il/#website"
+              },
+              "breadcrumb": {
+                "@id": "https://express-hovalot.co.il/category/moving-services/#breadcrumb"
+              },
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "BreadcrumbList",
+              "@id": "https://express-hovalot.co.il/category/moving-services/#breadcrumb",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://express-hovalot.co.il/"
+                },
+                {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "שירותי הובלה"
+                }
+              ]
+            },
+            {
+              "@type": "WebSite",
+              "@id": "https://express-hovalot.co.il/#website",
+              "url": "https://express-hovalot.co.il/",
+              "name": "אקספרס הובלות בירושלים",
+              "description": "שירותי הובלה ואחסנה בירושלים והסביבה",
+              "publisher": {
+                "@id": "https://express-hovalot.co.il/#organization"
+              },
+              "potentialAction": [
+                {
+                  "@type": "SearchAction",
+                  "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://express-hovalot.co.il/?s={search_term_string}"
+                  },
+                  "query-input": {
+                    "@type": "PropertyValueSpecification",
+                    "valueRequired": true,
+                    "valueName": "search_term_string"
+                  }
+                }
+              ],
+              "inLanguage": "he-IL"
+            },
+            {
+              "@type": "Organization",
+              "@id": "https://express-hovalot.co.il/#organization",
+              "name": "אקספרס הובלות",
+              "url": "https://express-hovalot.co.il/",
+              "logo": {
+                "@type": "ImageObject",
+                "inLanguage": "he-IL",
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/",
+                "url": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "contentUrl": "https://express-hovalot.co.il/wp-content/uploads/2025/04/favicon.svg",
+                "width": 61,
+                "height": 61,
+                "caption": "אקספרס הובלות"
+              },
+              "image": {
+                "@id": "https://express-hovalot.co.il/#/schema/logo/image/"
+              },
+              "sameAs": [
+                "https://www.facebook.com/expresshovalot",
+                "https://share.google/6OtoXR2bvfjVFdPl8",
+                "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ09Y3JQVLHRURkJVQluhRZNM"
+              ]
+            }
+          ]
+        }
+      },
+      "_links": {
+        "self": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories/33",
+            "targetHints": {
+              "allow": [
+                "GET",
+                "POST",
+                "PUT",
+                "PATCH",
+                "DELETE"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/categories"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/taxonomies/category"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://express-hovalot.co.il/wp-json/wp/v2/posts?categories=33"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
+}

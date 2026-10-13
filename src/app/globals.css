@@ -1,0 +1,450 @@
+@import "tailwindcss";
+@config "../../tailwind.config.ts";
+
+@layer base {
+  html {
+    --font-scale: 1;
+    --header-offset: 6rem;
+    font-size: calc(100% * var(--font-scale));
+    scroll-behavior: smooth;
+    scroll-padding-top: var(--header-offset);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+
+  body {
+    @apply bg-white text-neutral-900 antialiased;
+    padding-bottom: env(safe-area-inset-bottom, 0);
+    overflow-x: clip;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-brand-500;
+  }
+
+  html.a11y-grayscale {
+    filter: grayscale(100%);
+  }
+
+  html.a11y-negative-contrast {
+    filter: invert(1) hue-rotate(180deg);
+  }
+
+  html.a11y-grayscale.a11y-negative-contrast {
+    filter: grayscale(100%) invert(1) hue-rotate(180deg);
+  }
+
+  .a11y-high-contrast body {
+    @apply bg-black text-white;
+  }
+
+  .a11y-high-contrast a {
+    @apply text-accent-300;
+  }
+
+  .a11y-light-background body {
+    background: #ffffff !important;
+    color: #111827 !important;
+  }
+
+  .a11y-light-background a:not([class*="btn"]) {
+    color: #0b3d16 !important;
+  }
+
+  .a11y-readable-font body,
+  .a11y-readable-font body * {
+    font-family: Arial, Helvetica, "Segoe UI", sans-serif !important;
+  }
+
+  .a11y-underline-links a:not([class*="btn"]) {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  .sr-only:focus,
+  .sr-only:focus-visible {
+    position: fixed;
+    width: auto;
+    height: auto;
+    padding: 0.5rem 1rem;
+    margin: 0;
+    overflow: visible;
+    clip: auto;
+    white-space: normal;
+    z-index: 100;
+  }
+}
+
+html[data-menu-open] .fixed-controls {
+  display: none;
+}
+
+/* Scroll reveal — visible without JS; armed only on below-fold elements after hydration */
+@media (prefers-reduced-motion: no-preference) {
+  [data-scroll-reveal].scroll-reveal-armed:not(.scroll-revealed) {
+    opacity: 0;
+    transition:
+      opacity 0.55s ease,
+      transform 0.55s ease;
+    will-change: opacity, transform;
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-heading:not(.scroll-revealed) {
+    transform: translateY(1.5rem);
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-card:not(.scroll-revealed) {
+    transform: translateY(2rem);
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-image:not(.scroll-revealed) {
+    transform: translateY(1.25rem) scale(0.98);
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-logo:not(.scroll-revealed) {
+    transform: translateY(1rem);
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-slide-start:not(.scroll-revealed) {
+    transform: translateX(1.25rem);
+  }
+
+  [data-scroll-reveal].scroll-reveal-armed.reveal-slide-end:not(.scroll-revealed) {
+    transform: translateX(-1.25rem);
+  }
+
+  /* Prose, tables, intros and forms are never animated. */
+  [data-scroll-reveal].scroll-reveal-armed.reveal-subtle:not(.scroll-revealed) {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+
+  [data-scroll-reveal].scroll-revealed {
+    opacity: 1;
+    transform: none;
+  }
+
+  @media (max-width: 1023px) {
+    [data-scroll-reveal].scroll-reveal-armed:not(.scroll-revealed) {
+      transition-duration: 0.42s;
+    }
+
+    [data-scroll-reveal].scroll-reveal-armed.reveal-heading:not(.scroll-revealed) {
+      transform: translateY(0.875rem);
+    }
+
+    [data-scroll-reveal].scroll-reveal-armed.reveal-card:not(.scroll-revealed) {
+      transform: translateY(1.125rem);
+    }
+
+    [data-scroll-reveal].scroll-reveal-armed.reveal-slide-start:not(.scroll-revealed),
+    [data-scroll-reveal].scroll-reveal-armed.reveal-slide-end:not(.scroll-revealed) {
+      transform: translateY(0.875rem);
+    }
+  }
+}
+
+@keyframes popup-pill-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  [data-scroll-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  .logo-marquee-track {
+    animation: none !important;
+    transform: none !important;
+  }
+}
+
+/* Content-page hero background slideshow (source Elementor slideshow) */
+.hero-slide {
+  opacity: 0;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes hero-slide-fade {
+    0% {
+      opacity: 0;
+    }
+    6% {
+      opacity: 1;
+    }
+    30% {
+      opacity: 1;
+    }
+    36% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  .hero-slide {
+    animation-name: hero-slide-fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-fill-mode: both;
+  }
+}
+
+/* Client logo marquee — measured loop via --marquee-shift (set in JS) */
+.logo-marquee {
+  direction: ltr;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @keyframes logo-marquee-measured {
+    from {
+      transform: translate3d(0, 0, 0);
+    }
+    to {
+      transform: translate3d(calc(-1 * var(--marquee-shift, 0px)), 0, 0);
+    }
+  }
+
+  .logo-marquee-track {
+    opacity: 0;
+    will-change: transform;
+  }
+
+  .logo-marquee-track.logo-marquee-ready {
+    opacity: 1;
+    animation: logo-marquee-measured 28s linear infinite;
+  }
+
+  @media (max-width: 767px) {
+    .logo-marquee-track.logo-marquee-ready {
+      animation-duration: 22s;
+    }
+  }
+}
+
+/* Internal page rich text — Phase 2B.2 design system */
+.rich-text {
+  @apply text-neutral-800;
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+
+@media (min-width: 1024px) {
+  .rich-text {
+    font-size: 1.125rem;
+  }
+}
+
+.rich-text :where(h1) {
+  @apply mt-10 mb-5 text-3xl font-bold text-brand-900;
+}
+
+.rich-text :where(h2) {
+  @apply mt-10 mb-4 border-b border-brand-100 pb-2 text-2xl font-bold text-brand-900 sm:mt-12 sm:text-[1.75rem];
+}
+
+.rich-text :where(h2:first-child, h3:first-child) {
+  @apply mt-0;
+}
+
+.rich-text :where(h3) {
+  @apply mt-8 mb-3 text-xl font-bold text-brand-800 sm:text-2xl;
+}
+
+.rich-text :where(h4, h5) {
+  @apply mt-6 mb-2 text-lg font-semibold text-brand-800;
+}
+
+.rich-text :where(p) {
+  @apply mb-5;
+}
+
+.rich-text :where(ul, ol) {
+  @apply mb-5 ms-6 space-y-2;
+}
+
+.rich-text :where(ul) {
+  @apply list-disc;
+}
+
+.rich-text :where(ol) {
+  @apply list-decimal;
+}
+
+.rich-text :where(li) {
+  @apply leading-[1.8];
+}
+
+.rich-text :where(a:not(.rich-text-cta-link)) {
+  @apply font-medium text-brand-700 underline underline-offset-2 hover:text-brand-500;
+}
+
+.rich-text-wide,
+.rich-text-standard {
+  @apply w-full min-w-0;
+}
+
+.rich-text :where(.rich-text-image, img:not(.media-role-icon):not(.media-role-logo):not(.media-role-avatar)) {
+  @apply my-6 h-auto max-h-[520px] w-full max-w-full rounded-xl object-contain sm:my-8;
+}
+
+/* Media role sizing — Phase 2B.3E */
+.rich-text img.media-role-icon,
+.media-role-icon {
+  @apply my-3 block h-12 w-12 max-h-16 max-w-16 object-contain sm:my-4 sm:h-14 sm:w-14 lg:h-16 lg:w-16;
+}
+
+.rich-text img.media-role-logo,
+.media-role-logo {
+  @apply my-2 h-auto max-h-[3.125rem] w-auto max-w-[4.5rem] object-contain sm:max-h-14 sm:max-w-28 lg:max-h-16;
+}
+
+.rich-text img.media-role-avatar,
+.media-role-avatar {
+  @apply mx-auto aspect-square max-h-40 max-w-[9.5rem] rounded-xl object-cover sm:max-w-[10rem];
+}
+
+.media-role-content-medium {
+  @apply mx-auto max-w-[32rem];
+}
+
+.media-role-content-wide {
+  @apply mx-auto max-w-[42rem] sm:max-w-[48rem];
+}
+
+.media-role-card {
+  @apply aspect-[4/3] w-full overflow-hidden rounded-xl object-cover;
+}
+
+.media-role-hero {
+  @apply w-full rounded-xl object-cover;
+}
+
+.rich-text-logo-cluster {
+  @apply my-6 grid grid-cols-2 gap-3 sm:my-8 sm:grid-cols-3 sm:gap-4 md:grid-cols-4 lg:grid-cols-6;
+}
+
+.rich-text-logo-cluster img {
+  @apply my-0 mx-auto max-h-[3.125rem] w-full object-contain sm:max-h-14 lg:max-h-16;
+}
+
+.rich-text-profile-cluster {
+  @apply my-6 grid grid-cols-1 gap-5 sm:my-8 sm:grid-cols-2 lg:grid-cols-3;
+}
+
+.rich-text-profile-cluster img {
+  @apply mx-auto aspect-square w-full max-w-[9.5rem] rounded-xl object-cover;
+}
+
+.rich-text-icon-row {
+  @apply my-6 grid grid-cols-3 gap-3 sm:gap-4;
+}
+
+.rich-text-icon-row img.media-role-icon {
+  @apply mx-auto;
+}
+
+.rich-text-image-gallery {
+  @apply my-6 grid grid-cols-2 gap-3 sm:my-8 sm:grid-cols-3 sm:gap-4;
+}
+
+.rich-text-image-gallery img {
+  @apply my-0 aspect-[4/3] w-full rounded-xl object-cover;
+}
+
+.rich-text-table-wrap,
+.rich-text :where(.express-table-container) {
+  @apply my-8 overflow-x-auto rounded-xl border border-neutral-200 shadow-sm;
+}
+
+.rich-text-table,
+.rich-text :where(.express-price-table, table) {
+  @apply w-full min-w-[520px] border-collapse text-sm sm:text-base;
+}
+
+.rich-text-table :where(th),
+.rich-text :where(.express-price-table th, table th) {
+  @apply bg-brand-800 px-4 py-3 text-start font-semibold text-white;
+}
+
+.rich-text-table :where(td),
+.rich-text :where(.express-price-table td, table td) {
+  @apply border-t border-neutral-200 px-4 py-3 text-start;
+}
+
+.rich-text :where(.express-price-table tr:nth-child(even) td, table tbody tr:nth-child(even) td) {
+  @apply bg-neutral-50;
+}
+
+.rich-text :where(blockquote) {
+  @apply my-8 rounded-xl border-s-4 border-accent-400 bg-brand-50/60 px-5 py-4 italic text-brand-900;
+}
+
+.rich-text :where(.rich-text-cta-link, .elementor-button-link, a.elementor-button) {
+  @apply my-4 inline-flex min-h-[46px] items-center rounded-xl bg-accent px-5 py-2.5 font-bold text-brand-900 no-underline shadow-sm hover:bg-accent-dark;
+}
+
+.rich-text :where(br + br) {
+  display: none;
+}
+
+.rich-text-article {
+  font-size: 1.0625rem;
+  line-height: 1.85;
+}
+
+@media (min-width: 1024px) {
+  .rich-text-article {
+    font-size: 1.125rem;
+    line-height: 1.88;
+  }
+}
+
+.rich-text-article :where(h2) {
+  @apply mt-14 mb-5;
+}
+
+.rich-text-article :where(h3) {
+  @apply mt-10 mb-4;
+}
+
+:where(a[href^="tel:"]) {
+  white-space: nowrap;
+}
+
+/* Legacy alias */
+.wp-content {
+  @apply text-neutral-800;
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}

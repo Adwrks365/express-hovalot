@@ -1,0 +1,963 @@
+{
+  "path": "/אחסון-תכולה-לטווח-קצר",
+  "wpId": 4398,
+  "title": "אחסון תכולה לטווח קצר",
+  "type": "page",
+  "sectionCount": 15,
+  "sections": [
+    {
+      "index": 1,
+      "kind": "imageText",
+      "widgetCount": 5,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/storage-2-150x150.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסנה לטווח קצר בירושלים",
+          "heading": "אחסנה לטווח קצר בירושלים",
+          "headingLevel": "h1",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "זקוקים לפתרון זמני? אחסון גמיש החל מ-200 ₪ לחודש • ללא התחייבות לתקופה ארוכה • שירותי הובלה ואריזה • מחסנים מאובטחים ונגישים 24/7",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<h3 data-start=\"522\" data-end=\"661\">זקוקים לפתרון זמני? אחסון גמיש החל מ-200 ₪ לחודש • ללא התחייבות לתקופה ארוכה • שירותי הובלה ואריזה • מחסנים מאובטחים ונגישים 24/7</h3>"
+        },
+        {
+          "type": "button",
+          "text": "חייגו: 052-500-5573",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו: 052-500-5573"
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "שלחו הודעה מהירה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "https://wa.me/972525005573?text=%D7%94%D7%99%D7%99%20%D7%94%D7%92%D7%A2%D7%AA%D7%99%20%D7%93%D7%A8%D7%9A%20%D7%94%D7%90%D7%AA%D7%A8%20%D7%95%D7%90%D7%A8%D7%A6%D7%94%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%94%D7%A6%D7%A2%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%20/%20%D7%9C%D7%94%D7%96%D7%9E%D7%99%D7%9F%20%D7%94%D7%95%D7%91%D7%9C%D7%94%20",
+              "text": "שלחו הודעה מהירה"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "kind": "cta",
+      "widgetCount": 2,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו: 052-500-5573",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו: 052-500-5573"
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "שלחו הודעה מהירה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "https://wa.me/972525005573?text=%D7%94%D7%99%D7%99%20%D7%94%D7%92%D7%A2%D7%AA%D7%99%20%D7%93%D7%A8%D7%9A%20%D7%94%D7%90%D7%AA%D7%A8%20%D7%95%D7%90%D7%A8%D7%A6%D7%94%20%D7%9C%D7%A7%D7%91%D7%9C%20%D7%94%D7%A6%D7%A2%D7%AA%20%D7%9E%D7%97%D7%99%D7%A8%20/%20%D7%9C%D7%94%D7%96%D7%9E%D7%99%D7%9F%20%D7%94%D7%95%D7%91%D7%9C%D7%94%20",
+              "text": "שלחו הודעה מהירה"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "kind": "form",
+      "widgetCount": 3,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "רוצים לקבל הצעת מחיר מהירה?",
+          "heading": "רוצים לקבל הצעת מחיר מהירה?",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "heading": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "form",
+          "text": "שם טלפון קבלו הצעת מחיר לא מחייבת",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "kind": "imageGrid",
+      "widgetCount": 20,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "שירותי אחסנה לטווח קצר בירושלים – פתרונות גמישים",
+          "heading": "שירותי אחסנה לטווח קצר בירושלים – פתרונות גמישים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אם אתם מחפשים פתרון אחסנה לטווח קצר בירושלים, הגעתם בדיוק למקום הנכון. בין אם מדובר באחסון תכולה לשבועות בודדים בזמן שיפוץ, המתנה לכניסה לדירה חדשה או רילוקיישן קצר – ב\"אקספרס הובלות\" אנו מציעים לכם שירותי אחסון מקצועיים ללא התחייבות לתקופות ארוכות.גמישות מקסימלית – אחסון יומי, שבועי או חודשי בהתאמה אישית.מחסנים מאובטחים ונקיים ברמה הגבוהה ביותר.גישה נוחה 24/7 לציוד שלכם בכל עת.שירות משולב – הובלה, אריזה ואחסון בשיחת טלפון אחת.מחירים מנצחים – החל מ-200 ₪ לחודש (ללא אותיות קטנות).",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>אם אתם מחפשים פתרון אחסנה לטווח קצר בירושלים, הגעתם בדיוק למקום הנכון. בין אם מדובר באחסון תכולה לשבועות בודדים בזמן שיפוץ, המתנה לכניסה לדירה חדשה או רילוקיישן קצר – ב\"אקספרס הובלות\" אנו מציעים לכם שירותי אחסון מקצועיים ללא התחייבות לתקופות ארוכות.</p><ul><li data-path-to-node=\"7,0,0\"><b data-path-to-node=\"7,0,0\" data-index-in-node=\"0\">גמישות מקסימלית</b> – אחסון יומי, שבועי או חודשי בהתאמה אישית.</li><li data-path-to-node=\"7,1,0\"><b data-path-to-node=\"7,1,0\" data-index-in-node=\"0\">מחסנים מאובטחים ונקיים</b> ברמה הגבוהה ביותר.</li><li data-path-to-node=\"7,2,0\"><b data-path-to-node=\"7,2,0\" data-index-in-node=\"0\">גישה נוחה 24/7</b> לציוד שלכם בכל עת.</li><li data-path-to-node=\"7,3,0\"><b data-path-to-node=\"7,3,0\" data-index-in-node=\"0\">שירות משולב</b> – הובלה, אריזה ואחסון בשיחת טלפון אחת.</li><li data-path-to-node=\"7,4,0\"><b data-path-to-node=\"7,4,0\" data-index-in-node=\"0\">מחירים מנצחים</b> – החל מ-200 ₪ לחודש (ללא אותיות קטנות).</li></ul>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/1.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולת דירה בירושלים",
+          "heading": "אחסון תכולת דירה בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אחסון גמיש וזמני – פתרון מושלם למעברים מהירים, עם אפשרות להארכה או קיצור התקופה בהתראה קצרה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1353\" data-end=\"1464\">אחסון גמיש וזמני – פתרון מושלם למעברים מהירים, עם אפשרות להארכה או קיצור התקופה בהתראה קצרה.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/2.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון ציוד בזמן שיפוץ בירושלים",
+          "heading": "אחסון ציוד בזמן שיפוץ בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון לשיפוץ המהיר – שמירה על הריהוט והחפצים שלכם מוגנים מאבק ונזקים, גם לזמן קצר של כמה ימי עבודה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1495\" data-end=\"1603\">פתרון לשיפוץ המהיר – שמירה על הריהוט והחפצים שלכם מוגנים מאבק ונזקים, גם לזמן קצר של כמה ימי עבודה.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/3.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולה עודפת",
+          "heading": "אחסון תכולה עודפת",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פינוי מקום מיידי – מחסנים להשכרה בירושלים לכל פריט שחוסם לכם את הבית, בגישה נוחה ומחירים גמישים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"551\" data-end=\"710\">פינוי מקום מיידי – <a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">מחסנים להשכרה בירושלים</a> לכל פריט שחוסם לכם את הבית, בגישה נוחה ומחירים גמישים.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/5.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולה בנסיעות",
+          "heading": "אחסון תכולה בנסיעות",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "שקט נפשי בנסיעות – בין אם אתם נוסעים לחודש או שנה, הציוד שלכם מחכה לכם במחסן מאובטח עד שתחזרו.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1641\" data-end=\"1721\">שקט נפשי בנסיעות – בין אם אתם נוסעים לחודש או שנה, הציוד שלכם מחכה לכם במחסן מאובטח עד שתחזרו.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/6.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "ציוד עסקי/עונתי בירושלים",
+          "heading": "ציוד עסקי/עונתי בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מלאי וציוד זמני – פתרון אחסון אידיאלי לסחורה עונתית, עודפי מלאי או ציוד משרדי בתקופות מעבר.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1875\" data-end=\"1973\">מלאי וציוד זמני – פתרון אחסון אידיאלי לסחורה עונתית, עודפי מלאי או ציוד משרדי בתקופות מעבר.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/10-rnc77uilav5ev8t8yiq64jla6m9skaunz0ot7wbb0o.webp",
+            "alt": "מחסנים מוגנים ומאובטחים עבור אחסנה לטווח קצר בירושלים"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון גמיש בזמן",
+          "heading": "אחסון גמיש בזמן",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "בין אם מדובר ביומיים, שבועיים או שנים, אנחנו מתאימים את המחיר והתנאים לצורך המדויק שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1754\" data-end=\"1837\">&nbsp;בין אם מדובר ביומיים, שבועיים או שנים, אנחנו מתאימים את המחיר והתנאים לצורך המדויק שלכם.</p>"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "kind": "imageGrid",
+      "widgetCount": 9,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/1.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולת דירה בירושלים",
+          "heading": "אחסון תכולת דירה בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אחסון גמיש וזמני – פתרון מושלם למעברים מהירים, עם אפשרות להארכה או קיצור התקופה בהתראה קצרה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1353\" data-end=\"1464\">אחסון גמיש וזמני – פתרון מושלם למעברים מהירים, עם אפשרות להארכה או קיצור התקופה בהתראה קצרה.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/2.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון ציוד בזמן שיפוץ בירושלים",
+          "heading": "אחסון ציוד בזמן שיפוץ בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון לשיפוץ המהיר – שמירה על הריהוט והחפצים שלכם מוגנים מאבק ונזקים, גם לזמן קצר של כמה ימי עבודה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1495\" data-end=\"1603\">פתרון לשיפוץ המהיר – שמירה על הריהוט והחפצים שלכם מוגנים מאבק ונזקים, גם לזמן קצר של כמה ימי עבודה.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/3.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולה עודפת",
+          "heading": "אחסון תכולה עודפת",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פינוי מקום מיידי – מחסנים להשכרה בירושלים לכל פריט שחוסם לכם את הבית, בגישה נוחה ומחירים גמישים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"551\" data-end=\"710\">פינוי מקום מיידי – <a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">מחסנים להשכרה בירושלים</a> לכל פריט שחוסם לכם את הבית, בגישה נוחה ומחירים גמישים.</p>"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "kind": "imageGrid",
+      "widgetCount": 9,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/5.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון תכולה בנסיעות",
+          "heading": "אחסון תכולה בנסיעות",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "שקט נפשי בנסיעות – בין אם אתם נוסעים לחודש או שנה, הציוד שלכם מחכה לכם במחסן מאובטח עד שתחזרו.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1641\" data-end=\"1721\">שקט נפשי בנסיעות – בין אם אתם נוסעים לחודש או שנה, הציוד שלכם מחכה לכם במחסן מאובטח עד שתחזרו.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/6.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "ציוד עסקי/עונתי בירושלים",
+          "heading": "ציוד עסקי/עונתי בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מלאי וציוד זמני – פתרון אחסון אידיאלי לסחורה עונתית, עודפי מלאי או ציוד משרדי בתקופות מעבר.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1875\" data-end=\"1973\">מלאי וציוד זמני – פתרון אחסון אידיאלי לסחורה עונתית, עודפי מלאי או ציוד משרדי בתקופות מעבר.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/10-rnc77uilav5ev8t8yiq64jla6m9skaunz0ot7wbb0o.webp",
+            "alt": "מחסנים מוגנים ומאובטחים עבור אחסנה לטווח קצר בירושלים"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון גמיש בזמן",
+          "heading": "אחסון גמיש בזמן",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "בין אם מדובר ביומיים, שבועיים או שנים, אנחנו מתאימים את המחיר והתנאים לצורך המדויק שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1754\" data-end=\"1837\">&nbsp;בין אם מדובר ביומיים, שבועיים או שנים, אנחנו מתאימים את המחיר והתנאים לצורך המדויק שלכם.</p>"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "kind": "mixed",
+      "widgetCount": 1,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו עכשיו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20",
+              "text": "חייגו עכשיו"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "kind": "imageText",
+      "widgetCount": 11,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/6-1.webp",
+            "alt": "מתקן אחסנה לטווח קצר בירושלים - מחסנים מאובטחים אקספרס הובלות"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון גמיש לכל פרק זמן – בדיוק מה שחיפשתם!",
+          "heading": "אחסון גמיש לכל פרק זמן – בדיוק מה שחיפשתם!",
+          "headingLevel": "h5",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "פתרונות אחסנה לטווח קצר בירושלים",
+          "heading": "פתרונות אחסנה לטווח קצר בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "מומחים באחסון זמני וגמיש",
+          "heading": "מומחים באחסון זמני וגמיש",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנו מציעים יחידות אחסון פרטיות ומאובטחות לכל צורך – מעבר דירה מהיר, המתנה למפתח או שיפוץ קצר. החוזים שלנו גמישים ומותאמים בדיוק לזמן שאתם צריכים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"171\" data-end=\"356\">אנו מציעים יחידות אחסון פרטיות ומאובטחות לכל צורך – מעבר דירה מהיר, המתנה למפתח או שיפוץ קצר. החוזים שלנו גמישים ומותאמים בדיוק לזמן שאתם צריכים.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "מחיר החל מ-200 ₪ לחודש",
+          "heading": "מחיר החל מ-200 ₪ לחודש",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון אחסנה זולה בירושלים ללא התחייבות לתקופה ממושכת. ניתן להאריך או לקצר את זמן האחסון בהתאם לקצב המעבר או השיפוץ שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"358\" data-end=\"484\">פתרון אחסנה זולה בירושלים ללא התחייבות לתקופה ממושכת. ניתן להאריך או לקצר את זמן האחסון בהתאם לקצב המעבר או השיפוץ שלכם.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "הובלה ואחסון בשיחה אחת",
+          "heading": "הובלה ואחסון בשיחה אחת",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "חוסכים לכם זמן ולחץ. צוות \"אקספרס הובלות\" מספק שירות משולב של הובלת התכולה מהבית היישר למחסן ובחזרה, במחירים מנצחים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"486\" data-end=\"595\">חוסכים לכם זמן ולחץ. צוות \"אקספרס הובלות\" מספק שירות משולב של <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">הובלת התכולה מהבית היישר למחסן</a> ובחזרה, במחירים מנצחים.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "אבטחה מקסימלית 24/7",
+          "heading": "אבטחה מקסימלית 24/7",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "המחסנים שלנו מאובטחים מסביב לשעון במערכות מתקדמות. גם אם האחסון הוא לזמן קצר, השקט הנפשי שלכם הוא בראש סדר העדיפויות שלנו.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"597\" data-end=\"723\">המחסנים שלנו מאובטחים מסביב לשעון במערכות מתקדמות. גם אם האחסון הוא לזמן קצר, השקט הנפשי שלכם הוא בראש סדר העדיפויות שלנו.</p>"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "kind": "richText",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "מומחים באחסון זמני וגמיש",
+          "heading": "מומחים באחסון זמני וגמיש",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנו מציעים יחידות אחסון פרטיות ומאובטחות לכל צורך – מעבר דירה מהיר, המתנה למפתח או שיפוץ קצר. החוזים שלנו גמישים ומותאמים בדיוק לזמן שאתם צריכים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"171\" data-end=\"356\">אנו מציעים יחידות אחסון פרטיות ומאובטחות לכל צורך – מעבר דירה מהיר, המתנה למפתח או שיפוץ קצר. החוזים שלנו גמישים ומותאמים בדיוק לזמן שאתם צריכים.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "מחיר החל מ-200 ₪ לחודש",
+          "heading": "מחיר החל מ-200 ₪ לחודש",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון אחסנה זולה בירושלים ללא התחייבות לתקופה ממושכת. ניתן להאריך או לקצר את זמן האחסון בהתאם לקצב המעבר או השיפוץ שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"358\" data-end=\"484\">פתרון אחסנה זולה בירושלים ללא התחייבות לתקופה ממושכת. ניתן להאריך או לקצר את זמן האחסון בהתאם לקצב המעבר או השיפוץ שלכם.</p>"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "kind": "richText",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "הובלה ואחסון בשיחה אחת",
+          "heading": "הובלה ואחסון בשיחה אחת",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "חוסכים לכם זמן ולחץ. צוות \"אקספרס הובלות\" מספק שירות משולב של הובלת התכולה מהבית היישר למחסן ובחזרה, במחירים מנצחים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"486\" data-end=\"595\">חוסכים לכם זמן ולחץ. צוות \"אקספרס הובלות\" מספק שירות משולב של <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">הובלת התכולה מהבית היישר למחסן</a> ובחזרה, במחירים מנצחים.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "אבטחה מקסימלית 24/7",
+          "heading": "אבטחה מקסימלית 24/7",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "המחסנים שלנו מאובטחים מסביב לשעון במערכות מתקדמות. גם אם האחסון הוא לזמן קצר, השקט הנפשי שלכם הוא בראש סדר העדיפויות שלנו.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"597\" data-end=\"723\">המחסנים שלנו מאובטחים מסביב לשעון במערכות מתקדמות. גם אם האחסון הוא לזמן קצר, השקט הנפשי שלכם הוא בראש סדר העדיפויות שלנו.</p>"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "kind": "mixed",
+      "widgetCount": 8,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "לקבלת הצעת מחיר לאחסנה לטווח קצר חייגו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20",
+              "text": "לקבלת הצעת מחיר לאחסנה לטווח קצר חייגו"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "למה לבחור באקספרס לשירותי אחסנה לטווח קצר בירושלים?",
+          "heading": "למה לבחור באקספרס לשירותי אחסנה לטווח קצר בירושלים?",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "כי כשצריך פתרון לטווח קצר, אתם חייבים שותף שמתקתק עבודה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"2\"><b data-path-to-node=\"2\" data-index-in-node=\"0\">כי כשצריך פתרון לטווח קצר, אתם חייבים שותף שמתקתק עבודה.</b></p>"
+        },
+        {
+          "type": "counter",
+          "text": "שנות ניסיון 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "מעברים מוצלחים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "לקוחות ממליצים % 0",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "מטרים של אחסנה מאובטחת 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מומחים בשירותי אחסנה לטווח קצר בירושלים – פתרונות גמישים החל מימים בודדים ועד חודשים.מעטפת שירות מלאה – הובלה מהירה למחסן והחזרה לביתכם בתיאום קצר.אריזה מקצועית לשימור התכולה – הגנה מקסימלית על הציוד שלכם גם באחסון זמני.ביטחון ושקט נפשי – מחסנים מאובטחים וביטוח מלא על כל פריט מהיום הראשון.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<ul><li data-path-to-node=\"5,0,0\"><strong>מומחים בשירותי אחסנה לטווח קצר בירושלים</strong> – פתרונות גמישים החל מימים בודדים ועד חודשים.</li><li data-path-to-node=\"5,1,0\"><b data-path-to-node=\"5,1,0\" data-index-in-node=\"0\">מעטפת שירות מלאה</b> – <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">הובלה מהירה למחסן</a> והחזרה לביתכם בתיאום קצר.</li><li data-path-to-node=\"5,2,0\"><b data-path-to-node=\"5,2,0\" data-index-in-node=\"0\">אריזה מקצועית לשימור התכולה </b>–&nbsp;הגנה מקסימלית על הציוד שלכם גם באחסון זמני.</li><li data-path-to-node=\"5,3,0\"><b data-path-to-node=\"5,3,0\" data-index-in-node=\"0\">ביטחון ושקט נפשי</b> – מחסנים מאובטחים וביטוח מלא על כל פריט מהיום הראשון.</li></ul>"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "kind": "mixed",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "counter",
+          "text": "שנות ניסיון 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "מעברים מוצלחים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "לקוחות ממליצים % 0",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "מטרים של אחסנה מאובטחת 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "kind": "form",
+      "widgetCount": 3,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "רוצים לקבל הצעת מחיר מהירה? בשמחה!",
+          "heading": "רוצים לקבל הצעת מחיר מהירה? בשמחה!",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מלאו את הטופס ונחזור אליכם בהקדם!",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>מלאו את הטופס ונחזור אליכם בהקדם!</p>"
+        },
+        {
+          "type": "form",
+          "text": "שם טלפון שליחה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "kind": "faq",
+      "widgetCount": 3,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "שאלות נפוצות על אחסנה לטווח קצר בירושלים",
+          "heading": "שאלות נפוצות על אחסנה לטווח קצר בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "accordion",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "items": [
+            {
+              "question": "מה כוללים שירותי אחסנה לטווח קצר בירושלים?",
+              "answer": "אנו מציעים מגוון שירותי אחסון, ביניהם:אחסון תכולת דירהאחסון ציוד עסקיאחסון ציוד עונתיאחסון ריהוט בזמן רילוקשיין לחו\"לאחסון ציוד סטודנטיםועוד"
+            },
+            {
+              "question": "מהו המחיר של אחסנת תכולה לטווח קצר?",
+              "answer": "המחירים אצלנו מתחילים מ-200 ₪ לחודש — תלוי בגודל המחסן ובמשך התקופה."
+            },
+            {
+              "question": "מהו פרק הזמן המינימלי להשכרת מחסנים בירושלים?",
+              "answer": "אצלנו תוכלו לאחסן תכולה גם לתקופות קצרות מאוד (שבועות בודדים). אנחנו מאמינים בגמישות מלאה שמתאימה לצרכים שלכם."
+            },
+            {
+              "question": "איך אני יכול לבחור את תקופת ההשכרה המתאימה לי?",
+              "answer": "צוות אדיב ומקצועי ישמח לעזור לך לבחור את תקופת ההשכרה המתאימה לצרכים שלך. אנו ניקח בחשבון את כמות החפצים שאתה צריך לאחסן, את משך הזמן שאתה זקוק לאחסון ואת התקציב שלך."
+            },
+            {
+              "question": "איך אדע איזה גודל מחסן אני צריך?",
+              "answer": "המומחים שלנו יבצעו עבורכם הערכת נפח טלפונית או בביקור בבית, כדי להבטיח שתקבלו את המחסן האידיאלי במחיר המשתלם ביותר."
+            },
+            {
+              "question": "האם יש אבטחה במחסנים?",
+              "answer": "בהחלט! כל המחסנים מאובטחים במערכות מתקדמות, מצלמות במעגל סגור וגישה מאושרת בלבד."
+            },
+            {
+              "question": "האם הציוד שלי מבוטח בזמן האחסון?",
+              "answer": "בהחלט. כל פתרונות האחסון שלנו כוללים ביטוח מלא על התכולה, כך שתוכלו לישון בשקט בזמן שהחפצים שלכם אצלנו."
+            },
+            {
+              "question": "מהם שעות הגישה למחסנים?",
+              "answer": "גישה למחסנים 24/7 — כך שתוכלו להגיע לכל פריט מתי שתרצו."
+            },
+            {
+              "question": "האם אפשר לקבל שירותי הובלה לאחסון?",
+              "answer": "כן, אנו מציעים שירותי הובלת דירות, הובלת בתים ומשרדים כולל אריזה במחירים נוחים, כולל סידור החפצים במחסן."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/10-rnc77uimipwuo7mhaawjb6q4jq72hr3tb7nrtmdbq2.webp",
+            "alt": "מחסנים מוגנים ומאובטחים עבור אחסנה לטווח קצר בירושלים"
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "kind": "mixed",
+      "widgetCount": 2,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו להצעת מחיר מהירה ואטרקטיבית",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו להצעת מחיר מהירה ואטרקטיבית"
+            }
+          ]
+        },
+        {
+          "type": "text-editor",
+          "text": "אחסנה לטווח קצר בירושלים – פתרונות אחסון בהתאמה אישית\"כמה עולה אחסנה לטווח קצר בירושלים?מחירי אחסנה לטווח קצר מתחילים מ-30 ₪ ליום או החל מ-200 ₪ לחודש עבור יחידות אחסון קטנות, בהתאם לנפח התכולה במטר מעוקב (מ\"ק).\"בנבחרת של אקספרס הובלות \"חברת הובלות בירושלים\" תקבלו הרבה יותר מרק מחסן. עם ניסיון של למעלה מ-15 שנה בתחומי ההובלה והאחסנה בירושלים, אנו מספקים מעטפת מקצועית וגמישה המותאמת בדיוק לצרכים שלכם.למה הלקוחות שלנו בוחרים בנו פעם אחר פעם?מומחיות באחסון לטווח קצר: אנו מתמחים בפתרונות זמניים וגמישים – החל משבועות בודדים בזמן שיפוץ או מעבר דירה, ועד לאחסון ממושך לרילוקיישן.הכל תחת קורת גג אחת: כחברת אריזה והובלה בירושלים, אנו חוסכים לכם את כאב הראש. אנחנו נארוז, נוביל ונאחסן את הציוד שלכם במחסנים המאובטחים שלנו.ביטחון ללא פשרות: כל מחסן להשכרה אצלנו מאובטח 24/7, נקי, מתוחזק ונגיש עבורכם בכל עת.שירות לכל מטרה: מהובלת דירה ובית ועד לאחסון משטחים וציוד עסקי – אנו מתאימים את נפח האחסון בדיוק לכמות התכולה שלכם, כדי שלא תשלמו על מקום מיותר.אל תתלבטו – הבטיחו לעצמכם שקט נפשי במעבר הבא. צרו איתנו קשר עוד היום לקבלת הצעת מחיר משתלמת לאחסנה לטווח קצר בירושלים לטווח קצר או ארוך, ותיהנו משירות VIP במחיר מנצח!",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<h2 data-path-to-node=\"3\">אחסנה לטווח קצר בירושלים – פתרונות אחסון בהתאמה אישית</h2><blockquote><p data-path-to-node=\"7,0\"><b data-path-to-node=\"7,0\" data-index-in-node=\"0\">\"כמה עולה אחסנה לטווח קצר בירושלים?</b></p><p data-path-to-node=\"7,1\">מחירי אחסנה לטווח קצר מתחילים מ-<b data-path-to-node=\"7,1\" data-index-in-node=\"32\">30 ₪ ליום</b> או החל מ-<b data-path-to-node=\"7,1\" data-index-in-node=\"51\">200 ₪ לחודש</b> עבור יחידות אחסון קטנות, בהתאם לנפח התכולה במטר מעוקב (מ\"ק).\"</p></blockquote><p data-path-to-node=\"4\">בנבחרת של אקספרס הובלות <b data-path-to-node=\"4\" data-index-in-node=\"10\">\"<a href=\"https://express-hovalot.co.il/\">חברת הובלות בירושלים</a>\"</b> תקבלו הרבה יותר מרק מחסן. עם ניסיון של למעלה מ-15 שנה בתחומי ההובלה והאחסנה בירושלים, אנו מספקים מעטפת מקצועית וגמישה המותאמת בדיוק לצרכים שלכם.</p><p data-path-to-node=\"5\"><b data-path-to-node=\"5\" data-index-in-node=\"0\">למה הלקוחות שלנו בוחרים בנו פעם אחר פעם?</b></p><ul><li style=\"text-align: right;\"><b data-path-to-node=\"6,0,0\" data-index-in-node=\"0\">מומחיות באחסון לטווח קצר:</b> אנו מתמחים בפתרונות זמניים וגמישים – החל משבועות בודדים בזמן שיפוץ או מעבר דירה, ועד לאחסון ממושך לרילוקיישן.</li><li style=\"text-align: right;\"><b data-path-to-node=\"6,1,0\" data-index-in-node=\"0\">הכל תחת קורת גג אחת:</b> כחברת <a href=\"https://express-hovalot.co.il/%d7%97%d7%91%d7%a8%d7%aa-%d7%90%d7%a8%d7%99%d7%96%d7%94-%d7%95%d7%94%d7%95%d7%91%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">אריזה והובלה בירושלים</a>, אנו חוסכים לכם את כאב הראש. אנחנו נארוז, נוביל ונאחסן את הציוד שלכם במחסנים המאובטחים שלנו.</li><li style=\"text-align: right;\"><b data-path-to-node=\"6,2,0\" data-index-in-node=\"0\">ביטחון ללא פשרות:</b> כל מחסן להשכרה אצלנו מאובטח 24/7, נקי, מתוחזק ונגיש עבורכם בכל עת.</li><li style=\"text-align: right;\"><b data-path-to-node=\"6,3,0\" data-index-in-node=\"0\">שירות לכל מטרה:</b> מהובלת דירה ובית ועד לאחסון משטחים וציוד עסקי – אנו מתאימים את נפח האחסון בדיוק לכמות התכולה שלכם, כדי שלא תשלמו על מקום מיותר.</li></ul><p data-path-to-node=\"7\"><b data-path-to-node=\"7\" data-index-in-node=\"0\">אל תתלבטו – הבטיחו לעצמכם שקט נפשי במעבר הבא.</b> <a href=\"https://express-hovalot.co.il/%d7%a6%d7%a8%d7%95-%d7%a7%d7%a9%d7%a8/\">צרו איתנו קשר</a> עוד היום לקבלת הצעת מחיר משתלמת ל<a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">אחסנה לטווח קצר בירושלים</a> לטווח קצר או ארוך, ותיהנו משירות VIP במחיר מנצח!</p>"
+        }
+      ]
+    }
+  ],
+  "sourceRef": "src/content/data/pages.json#4398"
+}

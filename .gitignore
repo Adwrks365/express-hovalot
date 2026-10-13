@@ -1,0 +1,35 @@
+# Vercel local link (do not commit)
+.vercel/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+.env.production
+.env.production.local
+.env.development.local
+
+# Dependencies and build output
+node_modules/
+.next/
+out/
+dist/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Migration audit private data and large local artifacts
+audit/private/
+audit/screenshots/
+audit/links/
+audit/public/
+audit/source/
+audit/reports/*.json
+audit/reports/seo-pre-fix/
+migration/private/
+tmp/
+tsconfig.tsbuildinfo
+.vercel
+.env*

@@ -1,0 +1,139 @@
+{
+  "path": "/צרו-קשר",
+  "wpId": 2059,
+  "title": "צרו קשר",
+  "type": "page",
+  "sectionCount": 2,
+  "sections": [
+    {
+      "index": 1,
+      "kind": "richText",
+      "widgetCount": 2,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "צור קשר",
+          "heading": "צור קשר",
+          "headingLevel": "h1",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנחנו כאן תמיד כדי להעניק לך את השירות הטוב, המהיר והמקצועי ביותר.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"59\" data-end=\"145\">אנחנו כאן תמיד כדי להעניק לך את השירות הטוב, המהיר והמקצועי ביותר.</p>"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "kind": "form",
+      "widgetCount": 10,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "צרו קשר וקבלו שירות מקצועי, אמין וללא דאגות.",
+          "heading": "צרו קשר וקבלו שירות מקצועי, אמין וללא דאגות.",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "יש לכם שאלות על הובלות בירושלים? בין אם מדובר בהובלת דירה, הובלת משטחים או מעבר משרד, אנחנו כאן כדי לעזור. נשמח לענות על כל שאלה ולספק לכם הצעת מחיר משתלמת ושקופה, שתעשה את המעבר שלכם פשוט וללא דאגות.ניתן גם להתקשר עכשיו: 052-500-55-73",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>יש לכם שאלות על <strong data-start=\"109\" data-end=\"128\">הובלות בירושלים</strong>? בין אם מדובר ב<strong data-start=\"144\" data-end=\"185\"><a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">הובלת דירה</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%9e%d7%a9%d7%98%d7%97%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">הובלת משטחים</a> או <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%9e%d7%a9%d7%a8%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">מעבר משרד</a></strong>, אנחנו כאן כדי לעזור. נשמח לענות על כל שאלה ולספק לכם <strong data-start=\"240\" data-end=\"267\"><a href=\"https://express-hovalot.co.il/%d7%94%d7%a6%d7%a2%d7%aa-%d7%9e%d7%97%d7%99%d7%a8/\">הצעת מחיר</a> משתלמת ושקופה</strong>, שתעשה את המעבר שלכם פשוט וללא דאגות.</p><p data-start=\"323\" data-end=\"367\"><strong data-start=\"326\" data-end=\"351\">ניתן גם להתקשר עכשיו:</strong> <a href=\"tel:052-500-55-73\">052-500-55-73</a></p>"
+        },
+        {
+          "type": "text-editor",
+          "text": "השאירו את פרטיכם ונחזור אליכם בהקדם עם הצעת מחיר אישית לכל סוגי ההובלות, כדי שתוכלו לחסוך זמן, טרחה וכסף.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"86\" data-end=\"215\">השאירו את פרטיכם ונחזור אליכם בהקדם עם <strong data-start=\"143\" data-end=\"179\">הצעת מחיר אישית לכל סוגי ההובלות</strong>, כדי שתוכלו לחסוך זמן, טרחה וכסף.</p>"
+        },
+        {
+          "type": "form",
+          "text": "שם טלפון אימייל הודעה אני מסכים/ה לקבל הצעות בהתאם ל- מדיניות הפרטיות שליחה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "/privacy-policy",
+              "text": "מדיניות הפרטיות"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "הובלות במחוז ירושלים – מקצועיות בכל עיר ושכונה",
+          "heading": "הובלות במחוז ירושלים – מקצועיות בכל עיר ושכונה",
+          "headingLevel": "h4",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אקספרס הובלות מספקת הובלות בירושלים ובסביבתה בצורה מקצועית, מהירה ואמינה. הצוות המיומן שלנו מלווה אתכם בכל שלב של המעבר – מדירות ובתים פרטיים ועד משרדים וציוד כבד. אנו מציעים פתרונות הובלות מותאמות אישית, שירותי אריזה מקצועיים ואחסנה בטוחה, כדי שתוכלו לבצע את המעבר ללא דאגות וללא עיכובים מיותרים.אנו מבצעים הובלות בכל הערים המרכזיות ובסביבת ירושלים, כולל הובלות בגבעת זאב, הובלות במעלה אדומים, הובלות במבשרת ציון, הובלות בבית שמש, הובלות במודיעין, הובלות באבו גוש והובלות בעין כרם. בכל אזור אנו מתחייבים לשירות מהיר, מקצועי ואישי, עם מחירים הוגנים ושקיפות מלאה לאורך כל התהליך, כך שכל מעבר יהיה חלק ונעים.אקספרס הובלות – הבחירה הבטוחה והאמינה שלכם להובלות בירושלים ובכל אזור ירושלים.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"91\" data-end=\"398\">אקספרס הובלות מספקת <a href=\"https://express-hovalot.co.il/\"><strong data-start=\"111\" data-end=\"130\">הובלות בירושלים</strong></a> ובסביבתה בצורה מקצועית, מהירה ואמינה. הצוות המיומן שלנו מלווה אתכם בכל שלב של המעבר – מדירות ובתים פרטיים ועד משרדים וציוד כבד. אנו מציעים פתרונות <strong data-start=\"278\" data-end=\"302\">הובלות מותאמות אישית</strong>, שירותי אריזה מקצועיים ואחסנה בטוחה, כדי שתוכלו לבצע את המעבר ללא דאגות וללא עיכובים מיותרים.</p><p data-start=\"400\" data-end=\"719\">אנו מבצעים <strong data-start=\"411\" data-end=\"456\">הובלות בכל הערים המרכזיות ו<a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%90%d7%96%d7%95%d7%a8-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">בסביבת ירושלים</a></strong>, כולל <strong data-start=\"463\" data-end=\"592\"><a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%92%d7%91%d7%a2%d7%aa-%d7%96%d7%90%d7%91/\">הובלות בגבעת זאב</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%a2%d7%9c%d7%94-%d7%90%d7%93%d7%95%d7%9e%d7%99%d7%9d/\">הובלות במעלה אדומים</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%91%d7%a9%d7%a8%d7%aa-%d7%a6%d7%99%d7%95%d7%9f/\">הובלות במבשרת ציון</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%a9%d7%9e%d7%a9/\">הובלות בבית שמש</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%9e%d7%95%d7%93%d7%99%d7%a2%d7%99%d7%9f/\">הובלות במודיעין</a>, <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%90%d7%91%d7%95-%d7%92%d7%95%d7%a9/\">הובלות באבו גוש</a> והובלות בעין כרם</strong>. בכל אזור אנו מתחייבים לשירות מהיר, מקצועי ואישי, עם מחירים הוגנים ושקיפות מלאה לאורך כל התהליך, כך שכל מעבר יהיה חלק ונעים.</p><p data-start=\"721\" data-end=\"805\">אקספרס הובלות – הבחירה הבטוחה והאמינה שלכם ל<strong data-start=\"765\" data-end=\"802\">הובלות בירושלים ובכל <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%95%d7%aa-%d7%91%d7%90%d7%96%d7%95%d7%a8-%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\">אזור ירושלים</a></strong>.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "משרדי החברה",
+          "heading": "משרדי החברה",
+          "headingLevel": "h4",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "הרב חיים דוד הלוי 9, ירושלים, 9758829",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>הרב חיים דוד הלוי 9, ירושלים, 9758829</p>"
+        },
+        {
+          "type": "heading",
+          "text": "עקוב אחרינו",
+          "heading": "עקוב אחרינו",
+          "headingLevel": "h4",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "social-icons",
+          "text": "Facebook-f Twitter",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "https://www.facebook.com/expresshovalot/",
+              "text": "Facebook-f"
+            },
+            {
+              "href": "https://twitter.com/hovalotexpress",
+              "text": "Twitter"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceRef": "src/content/data/pages.json#2059"
+}

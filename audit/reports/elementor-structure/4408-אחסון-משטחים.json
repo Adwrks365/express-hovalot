@@ -1,0 +1,783 @@
+{
+  "path": "/אחסון-משטחים",
+  "wpId": 4408,
+  "title": "אחסון משטחים",
+  "type": "page",
+  "sectionCount": 14,
+  "sections": [
+    {
+      "index": 1,
+      "kind": "imageText",
+      "widgetCount": 5,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/storage-2-150x150.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "שירותי אחסון משטחים לעסקים וחברות בירושלים",
+          "heading": "שירותי אחסון משטחים לעסקים וחברות בירושלים",
+          "headingLevel": "h1",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "זקוקים למקום למלאי? אקספרס פתרונות אחסנה מציעה אחסון משטחים בטוח, נגיש ומשתלם. כולל שירותי הובלה ופריקה.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"522\" data-end=\"661\">זקוקים למקום למלאי? אקספרס פתרונות אחסנה מציעה אחסון משטחים בטוח, נגיש ומשתלם. כולל שירותי הובלה ופריקה.</p>"
+        },
+        {
+          "type": "button",
+          "text": "חייגו עכשיו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו עכשיו"
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "רוצים שאנחנו נתקשר ?",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "#contact",
+              "text": "רוצים שאנחנו נתקשר ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "kind": "cta",
+      "widgetCount": 2,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו עכשיו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו עכשיו"
+            }
+          ]
+        },
+        {
+          "type": "button",
+          "text": "רוצים שאנחנו נתקשר ?",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "#contact",
+              "text": "רוצים שאנחנו נתקשר ?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "kind": "form",
+      "widgetCount": 3,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "רוצים לקבל הצעת מחיר מהירה?",
+          "heading": "רוצים לקבל הצעת מחיר מהירה?",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "heading": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "form",
+          "text": "שם טלפון שליחה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "kind": "imageGrid",
+      "widgetCount": 11,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "מחפשים פתרונות אחסון משטחים וסחורה? הגעתם למקום הנכון!",
+          "heading": "מחפשים פתרונות אחסון משטחים וסחורה? הגעתם למקום הנכון!",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אם אתם מחפשים פתרון אחסון משטחים מקצועי, בטוח ונגיש – אנחנו באקספרס פתרונות אחסנה ערוכים לתת לכם מענה לוגיסטי מלא. בין אם מדובר בעודף מלאי זמני, אחסון סחורה מיובאת או צורך במחסן לוגיסטי גמיש, אנו מציעים שירותי אחסנה לעסקים בסטנדרטים הגבוהים ביותר, עם דגש על סדר, אבטחה ושינוע יעיל.מחסנים מאובטחים, נקיים ומסודרים – מותאמים במיוחד לסחורה וציוד על משטחים.נגישות מלאה למשאיות ופריקה – אפשרות לכניסת רכבים כבדים ושימוש במלגזות.שירותי הובלת משטחים ושינוע – הובלה ישירה מהנמל או מהמפעל עד לפתח המחסן.מחירים תחרותיים לפי כמות – פתרונות גמישים החל ממשטחים בודדים ועד למלאי רחב.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"6\">אם אתם מחפשים פתרון אחסון משטחים מקצועי, בטוח ונגיש – אנחנו באקספרס פתרונות אחסנה ערוכים לתת לכם מענה לוגיסטי מלא. בין אם מדובר בעודף מלאי זמני, אחסון סחורה מיובאת או צורך במחסן לוגיסטי גמיש, אנו מציעים שירותי אחסנה לעסקים בסטנדרטים הגבוהים ביותר, עם דגש על סדר, אבטחה ושינוע יעיל.</p><ul><li data-path-to-node=\"9,0,0\">מחסנים מאובטחים, נקיים ומסודרים – מותאמים במיוחד לסחורה וציוד על משטחים.</li><li data-path-to-node=\"9,1,0\">נגישות מלאה למשאיות ופריקה – אפשרות לכניסת רכבים כבדים ושימוש במלגזות.</li><li data-path-to-node=\"9,2,0\">שירותי הובלת משטחים ושינוע – הובלה ישירה מהנמל או מהמפעל עד לפתח המחסן.</li><li data-path-to-node=\"9,3,0\">מחירים תחרותיים לפי כמות – פתרונות גמישים החל ממשטחים בודדים ועד למלאי רחב.</li></ul>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/Small_3-rnc94b3f2gv8gtdb741yq9nvqwu76omvdv7xjet1u0.webp",
+            "alt": "Small_3"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון משטחים לעסקים",
+          "heading": "אחסון משטחים לעסקים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון אידיאלי ליבואנים ובעלי חנויות הזקוקים לאחסון סחורה על משטחים במתחם מאובטח.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1353\" data-end=\"1464\">פתרון אידיאלי ליבואנים ובעלי חנויות הזקוקים לאחסון סחורה על משטחים במתחם מאובטח.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2020/12/paltte-150x150.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "הובלת משטחים ומכולות",
+          "heading": "הובלת משטחים ומכולות",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מעטפת מלאה הכוללת הובלה מהנמל או מהמפעל ישירות למחסן, כולל פריקה וסידור.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1495\" data-end=\"1603\">מעטפת מלאה הכוללת הובלה מהנמל או מהמפעל ישירות למחסן, כולל פריקה וסידור.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/6-1-rnc77z7s91buhamf72raz0el5jmmmsdbnny8ma4c5k.webp",
+            "alt": "מתקן אחסנה לטווח קצר בירושלים - מחסנים מאובטחים אקספרס הובלות"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון לטווח קצר או ארוך",
+          "heading": "אחסון לטווח קצר או ארוך",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "גמישות מלאה בכמות המשטחים ובזמן האחסון, ללא התחייבות לתקופות ארוכות ומכבידות.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"551\" data-end=\"710\">גמישות מלאה בכמות המשטחים ובזמן האחסון, ללא התחייבות לתקופות ארוכות ומכבידות.</p>"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "kind": "imageGrid",
+      "widgetCount": 9,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/Small_3-rnc94b3f2gv8gtdb741yq9nvqwu76omvdv7xjet1u0.webp",
+            "alt": "Small_3"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון משטחים לעסקים",
+          "heading": "אחסון משטחים לעסקים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "פתרון אידיאלי ליבואנים ובעלי חנויות הזקוקים לאחסון סחורה על משטחים במתחם מאובטח.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1353\" data-end=\"1464\">פתרון אידיאלי ליבואנים ובעלי חנויות הזקוקים לאחסון סחורה על משטחים במתחם מאובטח.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2020/12/paltte-150x150.webp",
+            "alt": ""
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "הובלת משטחים ומכולות",
+          "heading": "הובלת משטחים ומכולות",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מעטפת מלאה הכוללת הובלה מהנמל או מהמפעל ישירות למחסן, כולל פריקה וסידור.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"1495\" data-end=\"1603\">מעטפת מלאה הכוללת הובלה מהנמל או מהמפעל ישירות למחסן, כולל פריקה וסידור.</p>"
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/6-1-rnc77z7s91buhamf72raz0el5jmmmsdbnny8ma4c5k.webp",
+            "alt": "מתקן אחסנה לטווח קצר בירושלים - מחסנים מאובטחים אקספרס הובלות"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון לטווח קצר או ארוך",
+          "heading": "אחסון לטווח קצר או ארוך",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "גמישות מלאה בכמות המשטחים ובזמן האחסון, ללא התחייבות לתקופות ארוכות ומכבידות.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"551\" data-end=\"710\">גמישות מלאה בכמות המשטחים ובזמן האחסון, ללא התחייבות לתקופות ארוכות ומכבידות.</p>"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "kind": "mixed",
+      "widgetCount": 1,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו עכשיו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20",
+              "text": "חייגו עכשיו"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "kind": "imageText",
+      "widgetCount": 11,
+      "widgets": [
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/2024/02/6-1.webp",
+            "alt": "מתקן אחסנה לטווח קצר בירושלים - מחסנים מאובטחים אקספרס הובלות"
+          },
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "אחסון קל, נוח ובטוח - אצלנו!",
+          "heading": "אחסון קל, נוח ובטוח - אצלנו!",
+          "headingLevel": "h5",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "פתרונות אחסון משטחים בירושלים",
+          "heading": "פתרונות אחסון משטחים בירושלים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "פתרון אידיאלי לאחסון משטחים וסחורה",
+          "heading": "פתרון אידיאלי לאחסון משטחים וסחורה",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנו מציעים מחסנים לוגיסטיים מאובטחים לכל כמות של משטחים – לטווח קצר או ארוך, וכל צורך: עודף מלאי, יבוא, או פשוט פינוי מקום בעסק.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"171\" data-end=\"356\">אנו מציעים מחסנים לוגיסטיים מאובטחים לכל כמות של משטחים – לטווח קצר או ארוך, וכל צורך: עודף מלאי, יבוא, או פשוט פינוי מקום בעסק.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "גמישות ומחירים משתלמים לשירותי אחסנה",
+          "heading": "גמישות ומחירים משתלמים לשירותי אחסנה",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "שירותי אחסון סחורה ומשטחים החל ממחיר נוח למשטח – לטווח קצר או ארוך, בהתאמה אישית לצרכים העסקיים שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"358\" data-end=\"484\">שירותי אחסון סחורה ומשטחים החל ממחיר נוח למשטח – לטווח קצר או ארוך, בהתאמה אישית לצרכים העסקיים שלכם.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "שירותי הובלה ושינוע משטחים מקצועיים",
+          "heading": "שירותי הובלה ושינוע משטחים מקצועיים",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אפשרות לשירותי הובלה של המשטחים שלכם אל המחסן – במחירים נוחים ומשתלמים, כולל פריקה וסידור במתחם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"486\" data-end=\"595\">אפשרות לשירותי הובלה של המשטחים שלכם אל המחסן – במחירים נוחים ומשתלמים, כולל פריקה וסידור במתחם.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "ביטחון מלא ושקט נפשי לאחסון המלאי שלכם",
+          "heading": "ביטחון מלא ושקט נפשי לאחסון המלאי שלכם",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "המחסנים מאובטחים 24/7 עם מערכות בטיחות מתקדמות – אתם יכולים להיות רגועים שהסחורה שלכם נמצאת בידיים טובות.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"15,1,0\">המחסנים מאובטחים 24/7 עם מערכות בטיחות מתקדמות – אתם יכולים להיות רגועים שהסחורה שלכם נמצאת בידיים טובות.</p>"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "kind": "richText",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "פתרון אידיאלי לאחסון משטחים וסחורה",
+          "heading": "פתרון אידיאלי לאחסון משטחים וסחורה",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנו מציעים מחסנים לוגיסטיים מאובטחים לכל כמות של משטחים – לטווח קצר או ארוך, וכל צורך: עודף מלאי, יבוא, או פשוט פינוי מקום בעסק.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"171\" data-end=\"356\">אנו מציעים מחסנים לוגיסטיים מאובטחים לכל כמות של משטחים – לטווח קצר או ארוך, וכל צורך: עודף מלאי, יבוא, או פשוט פינוי מקום בעסק.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "גמישות ומחירים משתלמים לשירותי אחסנה",
+          "heading": "גמישות ומחירים משתלמים לשירותי אחסנה",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "שירותי אחסון סחורה ומשטחים החל ממחיר נוח למשטח – לטווח קצר או ארוך, בהתאמה אישית לצרכים העסקיים שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"358\" data-end=\"484\">שירותי אחסון סחורה ומשטחים החל ממחיר נוח למשטח – לטווח קצר או ארוך, בהתאמה אישית לצרכים העסקיים שלכם.</p>"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "kind": "richText",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "שירותי הובלה ושינוע משטחים מקצועיים",
+          "heading": "שירותי הובלה ושינוע משטחים מקצועיים",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אפשרות לשירותי הובלה של המשטחים שלכם אל המחסן – במחירים נוחים ומשתלמים, כולל פריקה וסידור במתחם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-start=\"486\" data-end=\"595\">אפשרות לשירותי הובלה של המשטחים שלכם אל המחסן – במחירים נוחים ומשתלמים, כולל פריקה וסידור במתחם.</p>"
+        },
+        {
+          "type": "heading",
+          "text": "ביטחון מלא ושקט נפשי לאחסון המלאי שלכם",
+          "heading": "ביטחון מלא ושקט נפשי לאחסון המלאי שלכם",
+          "headingLevel": "h3",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "המחסנים מאובטחים 24/7 עם מערכות בטיחות מתקדמות – אתם יכולים להיות רגועים שהסחורה שלכם נמצאת בידיים טובות.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"15,1,0\">המחסנים מאובטחים 24/7 עם מערכות בטיחות מתקדמות – אתם יכולים להיות רגועים שהסחורה שלכם נמצאת בידיים טובות.</p>"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "kind": "mixed",
+      "widgetCount": 7,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "אקספרס הובלות – המומחים שלכם לאחסון משטחים",
+          "heading": "אקספרס הובלות – המומחים שלכם לאחסון משטחים",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "המספרים שמאחורי הלוגיסטיקה והשירות שלנו",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"3\"><b data-path-to-node=\"3\" data-index-in-node=\"0\">המספרים שמאחורי הלוגיסטיקה והשירות שלנו</b></p>"
+        },
+        {
+          "type": "counter",
+          "text": "שנות ניסיון 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "לקוחות מרוצים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "אבטחה היקפית 7/ 0",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "משטחים מאוחסנים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "אנו באקספרס הובלות ופתרונות אחסנה גאים להוביל את תחום האחסנה הלוגיסטית בירושלים והסביבה. הניסיון הרב שצברנו בשינוע ואחסון משטחים מאפשר לנו להעניק ללקוחותינו העסקיים שקט נפשי מלא, ביטחון מקסימלי וחיסכון משמעותי בעלויות התפעול. אנו מחויבים לסטנדרטים הגבוהים ביותר של אבטחה, סדר וזמינות עבור המלאי שלכם.",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>אנו באקספרס הובלות ופתרונות אחסנה גאים להוביל את תחום האחסנה הלוגיסטית בירושלים והסביבה. הניסיון הרב שצברנו בשינוע ואחסון משטחים מאפשר לנו להעניק ללקוחותינו העסקיים שקט נפשי מלא, ביטחון מקסימלי וחיסכון משמעותי בעלויות התפעול. אנו מחויבים לסטנדרטים הגבוהים ביותר של אבטחה, סדר וזמינות עבור המלאי שלכם.</p>"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "kind": "mixed",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "counter",
+          "text": "שנות ניסיון 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "לקוחות מרוצים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "אבטחה היקפית 7/ 0",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "counter",
+          "text": "משטחים מאוחסנים 0 +",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "kind": "form",
+      "widgetCount": 4,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "רוצים לקבל הצעת מחיר מהירה? בשמחה!",
+          "heading": "רוצים לקבל הצעת מחיר מהירה? בשמחה!",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "heading",
+          "text": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "heading": "חייגו עכשיו 052-500-5573 או מלאו טופס קצר",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "text-editor",
+          "text": "מלאו את הטופס ונחזור אליכם בהקדם!",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p>מלאו את הטופס ונחזור אליכם בהקדם!</p>"
+        },
+        {
+          "type": "form",
+          "text": "שם טלפון שליחה",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "kind": "faq",
+      "widgetCount": 3,
+      "widgets": [
+        {
+          "type": "heading",
+          "text": "שאלות נפוצות",
+          "heading": "שאלות נפוצות",
+          "headingLevel": "h2",
+          "image": null,
+          "links": []
+        },
+        {
+          "type": "accordion",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "items": [
+            {
+              "question": "כמה עולה אחסון משטח לחודש?",
+              "answer": "המחיר לאחסון משטח נקבע לפי כמות המשטחים הכוללת ותדירות הסבבים של המלאי. אנו מציעים מודל תמחור גמיש המאפשר לעסקים קטנים וגדולים ליהנות מפתרון אחסנה מקצועי ומשתלם מבלי לשלם על שטח מיותר במחסן."
+            },
+            {
+              "question": "האם יש ביטוח על המשטחים והסחורה?",
+              "answer": "בוודאי. כל הסחורה המאוחסנת אצלנו במתחם הלוגיסטי מכוסה בביטוח מלא ומקיף. המחסנים שלנו עומדים בכל תקני הבטיחות המחמירים ביותר, כולל מערכות גילוי אש ואבטחה טכנולוגית שפועלת 24/7 לשמירה על המלאי שלכם."
+            },
+            {
+              "question": "האם ניתן לאחסן משטחים לטווח קצר?",
+              "answer": "כן, אצלנו אין צורך בהתחייבות ארוכת טווח. אנו מציעים פתרונות אחסון משטחים גם לתקופות קצרות, כמו למשל במקרים של עודף מלאי זמני, המתנה לשחרור מהמכס או תקופות חגים שבהן העסק זקוק למקום אחסון נוסף באופן מיידי."
+            },
+            {
+              "question": "האם המחסנים נגישים למשאיות ופריקה?",
+              "answer": "בהחלט. המחסנים שלנו תוכננו לעבודה לוגיסטית שוטפת. המתחם כולל גישה נוחה למשאיות כבדות, רמפות פריקה וטעינה, וציוד מלגזות מתקדם המאפשר שינוע מהיר ובטוח של המשטחים מהרכב אל שטח האחסון ובחזרה."
+            },
+            {
+              "question": "האם אתם מספקים שירותי הובלת משטחים?",
+              "answer": "כן, זהו אחד היתרונות הגדולים שלנו. אנו מציעים מעטפת \"הובלה ואחסנה\" תחת קורת גג אחת. נוכל לאסוף את המשטחים מהנמל, מהמפעל או מהמחסן הישן שלכם, להוביל אותם אלינו ולסדר אותם במחסן בצורה מקצועית ויעילה."
+            },
+            {
+              "question": "מה הם תנאי האחסנה במחסן שלכם?",
+              "answer": "הסחורה שלכם נשמרת במחסן סגור, נקי, מאוורר ויבש לחלוטין. אנו מקפידים על הדברה תקופתית ועל ניקיון יומיומי של שטחי האחסון, כדי להבטיח שהמשטחים והציוד שלכם יישארו במצב מושלם, ללא אבק, רטיבות או נזקי מזג אוויר."
+            },
+            {
+              "question": "האם ניתן לגשת למלאי במהלך תקופת האחסון?",
+              "answer": "בהחלט. ניתן לתאם הגעה למחסן לצורך בדיקת מלאי, הוצאת משטחים בודדים או הכנסת סחורה חדשה. אנו דואגים לסידור חכם של המשטחים כך שתהיה גישה נוחה ומהירה לציוד שלכם בכל עת בתיאום מראש מול צוות המחסן."
+            },
+            {
+              "question": "אילו סוגי משטחים ניתן לאחסן אצלכם?",
+              "answer": "אנו ערוכים לאחסון של מגוון רחב של משטחים (משטחי עץ, פלסטיק, יורו-פאלאט ועוד). ניתן לאחסן אצלנו סחורות מגוונות החל ממוצרי צריכה, ציוד משרדי וריהוט, ועד לחומרי בניין וציוד טכני, כל עוד הם אינם חומרים דליקים או מסוכנים."
+            },
+            {
+              "question": "האם אפשר לקבל שירותי הובלה לאחסון?",
+              "answer": "כן, אנו מציעים שירותי הובלה ואריזה נוחים, כולל סידור החפצים במחסן."
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "text": "",
+          "heading": null,
+          "headingLevel": null,
+          "image": {
+            "src": "https://express-hovalot.co.il/wp-content/uploads/thumbs/10-rnc77uimipwuo7mhaawjb6q4jq72hr3tb7nrtmdbq2.webp",
+            "alt": "מחסנים מוגנים ומאובטחים עבור אחסנה לטווח קצר בירושלים"
+          },
+          "links": []
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "kind": "mixed",
+      "widgetCount": 2,
+      "widgets": [
+        {
+          "type": "button",
+          "text": "חייגו להצעת מחיר מהירה ואטרקטיבית",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [
+            {
+              "href": "tel:0525005573%20%20",
+              "text": "חייגו להצעת מחיר מהירה ואטרקטיבית"
+            }
+          ]
+        },
+        {
+          "type": "text-editor",
+          "text": "בנבחרת של \"אקספרס הובלות\" תיהנו ממעטפת מקצועית של שירותי אחסון תכולת דירה בירושלים בסטנדרט ללא פשרות. עם ניסיון עשיר של מעל 15 שנה בביצוע הובלות בירושלים ומתן פתרונות אחסנה מתקדמים, אנו מבטיחים לכם שקט נפשי מלא לאורך כל התהליך.אנו מתמחים במתן מענה היברידי של הובלה ואחסון בירושלים, המתוכנן בקפידה לפי הצרכים שלכם — החל מניהול הובלת דירה בירושלים, דרך הובלת בית בירושלים ועד לפתרונות לוגיסטיים מורכבים של הובלת משטחים בירושלים המיועדים למגזר העסקי והפרטי כאחד.זקוקים למקום בטוח לציוד שלכם? אנו מציעים פתרונות אחסון מתקדמים לכל מי שמחפש מחסנים להשכרה בירושלים או שירותי אחסון בירושלים. המחסנים שלנו הם הפתרון המושלם לאחסון תכולה בזמן מעבר, רילוקיישן, שיפוץ מאסיבי, או עבור אלו המעוניינים בפינוי מקום בבית בראש שקט.המתחמים שלנו מאובטחים 24/7, מבוקרים ונקיים, ומספקים גישה נוחה ומהירה למלאי. כחלק מהשירות המשולב שלנו כ-חברת אריזה והובלה בירושלים, הצוות המיומן שלנו יבצע עבורכם אריזה מקצועית, שינוע בטוח למחסנים וסידור מותאם אישית של התכולה.אל תחפשו רחוק מדי — צרו איתנו קשר עוד היום, קבלו הצעת מחיר משתלמת והבטיחו מקום בטוח ומוגן לכל החפצים היקרים לכם!",
+          "heading": null,
+          "headingLevel": null,
+          "image": null,
+          "links": [],
+          "html": "<p data-path-to-node=\"3\">בנבחרת של <b data-path-to-node=\"3\" data-index-in-node=\"10\">\"אקספרס הובלות\"</b> תיהנו ממעטפת מקצועית של <a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94/\"><b data-path-to-node=\"3\" data-index-in-node=\"50\">שירותי אחסון תכולת דירה בירושלים</b></a> בסטנדרט ללא פשרות. עם ניסיון עשיר של מעל 15 שנה בביצוע <a href=\"https://express-hovalot.co.il/\"><b data-path-to-node=\"3\" data-index-in-node=\"138\">הובלות בירושלים</b></a> ומתן <a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\"><b data-path-to-node=\"3\" data-index-in-node=\"159\">פתרונות אחסנה</b></a> מתקדמים, אנו מבטיחים לכם שקט נפשי מלא לאורך כל התהליך.</p><p data-path-to-node=\"4\">אנו מתמחים במתן מענה היברידי של <b data-path-to-node=\"4\" data-index-in-node=\"32\">הובלה ואחסון בירושלים</b>, המתוכנן בקפידה לפי הצרכים שלכם — החל מניהול <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%93%d7%99%d7%a8%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\"><b data-path-to-node=\"4\" data-index-in-node=\"99\">הובלת דירה בירושלים</b></a>, דרך <a href=\"https://express-hovalot.co.il/%d7%94%d7%95%d7%91%d7%9c%d7%aa-%d7%91%d7%99%d7%aa-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\"><b data-path-to-node=\"4\" data-index-in-node=\"124\">הובלת בית בירושלים</b></a> ועד לפתרונות לוגיסטיים מורכבים של <b data-path-to-node=\"4\" data-index-in-node=\"177\">הובלת משטחים בירושלים</b> המיועדים למגזר העסקי והפרטי כאחד.</p><p data-path-to-node=\"5\">זקוקים למקום בטוח לציוד שלכם? אנו מציעים פתרונות אחסון מתקדמים לכל מי שמחפש <b data-path-to-node=\"5\" data-index-in-node=\"76\">מחסנים להשכרה בירושלים</b> או <a href=\"https://express-hovalot.co.il/%d7%90%d7%97%d7%a1%d7%95%d7%9f-%d7%aa%d7%9b%d7%95%d7%9c%d7%94-%d7%9c%d7%98%d7%95%d7%95%d7%97-%d7%a7%d7%a6%d7%a8/\"><b data-path-to-node=\"5\" data-index-in-node=\"102\">שירותי אחסון בירושלים</b></a>. המחסנים שלנו הם הפתרון המושלם לאחסון תכולה בזמן מעבר, רילוקיישן, שיפוץ מאסיבי, או עבור אלו המעוניינים בפינוי מקום בבית בראש שקט.</p><p data-path-to-node=\"6\">המתחמים שלנו מאובטחים 24/7, מבוקרים ונקיים, ומספקים גישה נוחה ומהירה למלאי. כחלק מהשירות המשולב שלנו כ-<a href=\"https://express-hovalot.co.il/%d7%97%d7%91%d7%a8%d7%aa-%d7%90%d7%a8%d7%99%d7%96%d7%94-%d7%95%d7%94%d7%95%d7%91%d7%9c%d7%94-%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d/\"><b data-path-to-node=\"6\" data-index-in-node=\"103\">חברת אריזה והובלה בירושלים</b></a>, הצוות המיומן שלנו יבצע עבורכם אריזה מקצועית, שינוע בטוח למחסנים וסידור מותאם אישית של התכולה.</p><p data-path-to-node=\"7\"><b data-path-to-node=\"7\" data-index-in-node=\"0\">אל תחפשו רחוק מדי — צרו איתנו קשר עוד היום, קבלו הצעת מחיר משתלמת והבטיחו מקום בטוח ומוגן לכל החפצים היקרים לכם!</b></p>"
+        }
+      ]
+    }
+  ],
+  "sourceRef": "src/content/data/pages.json#4408"
+}

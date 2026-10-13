@@ -1,0 +1,108 @@
+{
+  "generated": "2026-10-07T10:02:31.311Z",
+  "summary": [
+    {
+      "path": "/אחסון-תכולה-לטווח-קצר",
+      "wpId": 4398,
+      "sectionCount": 15,
+      "kinds": [
+        "imageText",
+        "cta",
+        "form",
+        "imageGrid",
+        "imageGrid",
+        "imageGrid",
+        "mixed",
+        "imageText",
+        "richText",
+        "richText",
+        "mixed",
+        "mixed",
+        "form",
+        "faq",
+        "mixed"
+      ]
+    },
+    {
+      "path": "/אחסון-משטחים",
+      "wpId": 4408,
+      "sectionCount": 14,
+      "kinds": [
+        "imageText",
+        "cta",
+        "form",
+        "imageGrid",
+        "imageGrid",
+        "mixed",
+        "imageText",
+        "richText",
+        "richText",
+        "mixed",
+        "mixed",
+        "form",
+        "faq",
+        "mixed"
+      ]
+    },
+    {
+      "path": "/צרו-קשר",
+      "wpId": 2059,
+      "sectionCount": 2,
+      "kinds": [
+        "richText",
+        "form"
+      ]
+    },
+    {
+      "path": "/about-us",
+      "wpId": 4722,
+      "sectionCount": 13,
+      "kinds": [
+        "richText",
+        "form",
+        "mixed",
+        "imageText",
+        "mixed",
+        "mixed",
+        "richText",
+        "iconFeatureGrid",
+        "faq",
+        "faq",
+        "mixed",
+        "form",
+        "imageText"
+      ]
+    },
+    {
+      "path": "/שאלות-נפוצות",
+      "wpId": 2060,
+      "sectionCount": 5,
+      "kinds": [
+        "hero",
+        "faq",
+        "richText",
+        "mixed",
+        "form"
+      ]
+    },
+    {
+      "path": "/הצעת-מחיר",
+      "wpId": 2046,
+      "sectionCount": 4,
+      "kinds": [
+        "form",
+        "mixed",
+        "mixed",
+        "mixed"
+      ]
+    },
+    {
+      "path": "/כמה-עולה-הובלת-דירה-בירושלים-ב-2026",
+      "wpId": 4058,
+      "sectionCount": 1,
+      "kinds": [
+        "imageGrid"
+      ]
+    }
+  ]
+}
