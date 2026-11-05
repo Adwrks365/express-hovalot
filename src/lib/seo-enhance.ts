@@ -47,9 +47,17 @@ function sanitizeDescription(desc: string): string {
   return desc.replace(/;/g, ",").replace(/\s+/g, " ").trim();
 }
 
+function lookupOverride(pathname: string): OverrideEntry | undefined {
+  if (overrides[pathname]) return overrides[pathname];
+  if (pathname === "/") return undefined;
+  const withSlash = `${pathname}/`;
+  const withoutSlash = pathname.replace(/\/$/, "");
+  return overrides[withSlash] ?? overrides[withoutSlash];
+}
+
 export function enhanceSeoFields(base: SeoFields, path: string): SeoFields {
   const p = normalizePathname(path);
-  const override = overrides[p] ?? overrides[p.replace(/\/$/, "")];
+  const override = lookupOverride(p);
   const kind = classifySeoPage(p);
 
   let title = override?.title || base.title || "";

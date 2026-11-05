@@ -208,6 +208,16 @@ export type FooterNavGroup = {
 };
 
 /** Production footer nav — שירותי הובלה group includes two extra footer-only links */
+export const footerAboutInfoLinks: FooterLinkItem[] = [
+  { label: "אודות אקספרס הובלות", href: "/about-us" },
+  {
+    label: "חברת הובלות מומלצת בירושלים",
+    href: "/חברת-הובלות-מומלצת-בירושלים",
+  },
+  { label: "מוביל בירושלים והסביבה", href: "/מוביל-בירושלים-והסביבה" },
+  { label: "שאלות נפוצות", href: "/שאלות-נפוצות" },
+];
+
 export const footerServicesLinks: FooterLinkItem[] = [
   { label: "הובלת דירה בירושלים", href: "/הובלת-דירה-בירושלים" },
   { label: "הובלת בית בירושלים", href: "/הובלת-בית-בירושלים" },
@@ -217,7 +227,7 @@ export const footerServicesLinks: FooterLinkItem[] = [
   { label: "הובלות דחופות בירושלים", href: "/הובלות-דחופות-בירושלים" },
   { label: "הובלת משטחים בירושלים", href: "/הובלת-משטחים-בירושלים" },
   { label: "הובלות משרדים בירושלים", href: "/הובלות-משרדים-בירושלים" },
-  { label: "שירותי אריזה בירושלים", href: "/חברת-אריזה-והובלה-בירושלים" },
+  { label: "שירותי אריזה בירושלים", href: "/חברת-אריזה-והובלה-בירושלים/" },
   { label: "מוביל בירושלים והסביבה", href: "/מוביל-בירושלים-והסביבה" },
   { label: "הובלת דירה מירושלים", href: "/הובלת-דירה-מירושלים" },
 ];
@@ -240,7 +250,13 @@ export type FooterNavEntry =
 /** Production footer nav order — Elementor vertical nav post-3528 widget 82e817d (group labels are links in production) */
 export const footerNavEntries: FooterNavEntry[] = [
   { type: "link", label: "הובלות בירושלים", href: "/" },
-  { type: "link", label: "אודות", href: "/about-us" },
+  {
+    type: "group",
+    id: "about-info",
+    label: "אודות ומידע",
+    href: "/about-us",
+    links: footerAboutInfoLinks,
+  },
   { type: "group", id: "services", label: "שירותי הובלה", href: "/שירותי-הובלה", links: footerServicesLinks },
   { type: "group", id: "storage", label: "אחסון תכולה", href: "/אחסון-תכולה-בירושלים", links: footerStorageLinks },
   { type: "group", id: "quote", label: "הצעת מחיר", href: "/הצעת-מחיר", links: footerQuoteLinks },

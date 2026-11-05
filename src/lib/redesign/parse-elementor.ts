@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import * as cheerio from "cheerio";
 import type { AnyNode, Element } from "domhandler";
-import { wpUrlToLocal } from "@/lib/media";
+import { resolveMediaAltById, resolveMediaById, wpUrlToLocal } from "@/lib/media";
 import { productionUrlToPath } from "@/lib/paths";
 import type {
   ContentLink,
@@ -258,9 +258,17 @@ export function parseRichBlocks($: $Api, root: AnyNode): RichBlock[] {
   return blocks;
 }
 
+function wpAttachmentId($: $Api, img: Element): number | null {
+  const cls = $(img).attr("class") || "";
+  const m = cls.match(/wp-image-(\d+)/);
+  return m ? Number(m[1]) : null;
+}
+
 function imageFrom($: $Api, img: Element | undefined): SourceImage | null {
   if (!img) return null;
-  const src = resolveSourceImageSrc($(img).attr("src"));
+  const attachmentId = wpAttachmentId($, img);
+  let src = resolveSourceImageSrc($(img).attr("src"));
+  if (!src && attachmentId) src = resolveMediaById(attachmentId);
   if (!src) return null;
   const width = Number($(img).attr("width")) || undefined;
   const height = Number($(img).attr("height")) || undefined;
@@ -271,7 +279,9 @@ function imageFrom($: $Api, img: Element | undefined): SourceImage | null {
   } catch {
     /* keep */
   }
-  return { src, alt: normalizeSpace($(img).attr("alt") || ""), width, height, origin };
+  let alt = normalizeSpace($(img).attr("alt") || "");
+  if (!alt && attachmentId) alt = normalizeSpace(resolveMediaAltById(attachmentId) || "");
+  return { src, alt, width, height, origin };
 }
 
 function parseWidget($: $Api, el: Element): Widget | null {
@@ -283,7 +293,9 @@ function parseWidget($: $Api, el: Element): Widget | null {
     case "heading":
     case "animated-headline": {
       const title = scope.find(".elementor-heading-title, h1, h2, h3, h4, h5, h6").first();
-      const text = normalizeSpace((title.length ? title : scope).text());
+      const titleEl = title.length ? title : scope;
+      const rawHtml = titleEl.html() || titleEl.text();
+      const text = inlineToText(String(rawHtml).replace(/<br\s*\/?>/gi, " "));
       if (!text) return null;
       const tag = (title.prop("tagName") || "H2").toString().toLowerCase();
       const level = /^h[1-6]$/.test(tag) ? Number(tag[1]) : 6;
