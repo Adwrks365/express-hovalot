@@ -4,10 +4,12 @@ type MediaItem = {
   id: number;
   sourceUrl: string;
   localPath: string | null;
+  alt?: string;
 };
 
 const bySource = new Map<string, string>();
 const byId = new Map<number, string>();
+const altById = new Map<number, string>();
 const byFilename = new Map<string, string>();
 const byStem = new Map<string, string>();
 
@@ -25,6 +27,7 @@ function registerStem(stem: string, localPath: string) {
 }
 
 for (const item of mediaMap.items as MediaItem[]) {
+  if (item.alt?.trim()) altById.set(item.id, item.alt.trim());
   if (!item.localPath) continue;
   bySource.set(item.sourceUrl, item.localPath);
   byId.set(item.id, item.localPath);
@@ -46,6 +49,11 @@ export function resolveMediaUrl(sourceUrl: string | null | undefined): string | 
 export function resolveMediaById(id: number | null | undefined): string | null {
   if (!id) return null;
   return byId.get(id) || null;
+}
+
+export function resolveMediaAltById(id: number | null | undefined): string | null {
+  if (!id) return null;
+  return altById.get(id) || null;
 }
 
 function normalizeUploadFilename(filename: string): string {
