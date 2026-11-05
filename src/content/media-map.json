@@ -738,10 +738,10 @@
     {
       "id": 2721,
       "sourceUrl": "https://express-hovalot.co.il/wp-content/uploads/2024/03/small_image_2.webp",
-      "localPath": "/media/3986-5.webp",
-      "alt": "אחסון ציוד עסקי",
-      "title": "5",
-      "note": "Remapped from missing WP asset to local storage photo (3986)"
+      "localPath": "/media/office-equipment-storage.webp",
+      "alt": "אחסון ציוד משרדי ועסקי במחסן מסודר",
+      "title": "office-equipment-storage",
+      "note": "Illustration for office moves card; WP asset 404. Not a photo of company facilities."
     },
     {
       "id": 2720,
