@@ -33,7 +33,9 @@ import { resolveRedesignArchetype, type RedesignArchetype } from "@/lib/redesign
 import { heroFormCopy, normalizeHeroButtonsWithForm, shouldShowHeroForm } from "@/lib/redesign/hero-form";
 import type { Block, CtaKind, HeroModel, PageModel } from "@/lib/redesign/blocks";
 import { AccessibilityStatementAddendum } from "@/components/accessibility/AccessibilityStatementAddendum";
+import { RelatedServicesHub } from "@/components/internal/RelatedServicesHub";
 import { PopupPageRegistrar } from "@/components/popups/PopupPageRegistrar";
+import { normalizePathname } from "@/lib/paths";
 import { composePage } from "@/lib/redesign/compose";
 import { normalizeHeadingLevels } from "@/lib/redesign/heading-levels";
 import { resolveSourceImageSrc } from "@/lib/redesign/parse-elementor";
@@ -358,6 +360,12 @@ export function RedesignPageRenderer({ record }: { record: ContentRecord }) {
       />
       {assignTones(blocks).map((t, i) => renderBlock(t, i, archetype === "legal", quiet.has(i)))}
       {record.path === "/accessibility-statement" ? <AccessibilityStatementAddendum /> : null}
+      {archetype === "service" ||
+      archetype === "area" ||
+      archetype === "storage" ||
+      normalizePathname(record.path) === "/מחירי-הובלת-דירות" ? (
+        <RelatedServicesHub path={record.path} />
+      ) : null}
       {showConversion ? <RedesignConversion title={conversion.title} text={conversion.text} body={conversion.body} /> : null}
       <PopupPageRegistrar record={record} archetype={archetype} />
     </InternalPageShell>
