@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-06T09:30:53.984Z",
-  "preserveExact": 70,
+  "preserveExact": 71,
   "redirectRules": 3,
   "items": [
     {
@@ -732,6 +732,16 @@
       "contentType": "duplicate-variant",
       "redirectRequirement": "301 to https://express-hovalot.co.il/author/guest_2020/page/2/",
       "notes": "Non-sitemap indexable variant — do not create duplicate indexed route"
+    },
+    {
+      "oldUrl": "https://express-hovalot.co.il/הדירה-החדשה-לא-מוכנה-הובלה-ואחסון-תכולה-בירושלים/",
+      "requiredNewPath": "/הדירה-החדשה-לא-מוכנה-הובלה-ואחסון-תכולה-בירושלים",
+      "expectedStatus": 200,
+      "expectedIndexability": "indexable",
+      "expectedCanonical": "https://express-hovalot.co.il/הדירה-החדשה-לא-מוכנה-הובלה-ואחסון-תכולה-בירושלים/",
+      "contentType": "post",
+      "redirectRequirement": "Preserve trailing-slash 301 if non-canonical variant requested",
+      "notes": "New weekly SEO article — sitemap member"
     }
   ]
 }
