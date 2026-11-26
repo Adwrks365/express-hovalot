@@ -5,8 +5,8 @@ import { canonicalPathname } from "@/lib/paths";
 type HubLink = { href: string; label: string };
 
 const DEFAULT_HUB: HubLink[] = [
+  { href: "/", label: "חברת הובלות בירושלים" },
   { href: "/שירותי-הובלה/", label: "כל שירותי ההובלה" },
-  { href: "/הובלות-בירושלים/", label: "הובלות בירושלים" },
 ];
 
 const BY_PATH_PREFIX: { prefix: string; links: HubLink[] }[] = [
@@ -45,9 +45,41 @@ const BY_PATH_PREFIX: { prefix: string; links: HubLink[] }[] = [
   {
     prefix: "/חברת-הובלות-מומלצת",
     links: [
-      { href: "/הובלות-בירושלים/", label: "הובלות בירושלים" },
+      { href: "/", label: "אקספרס הובלות — דף הבית" },
       { href: "/הובלת-דירה-בירושלים/", label: "הובלת דירה" },
       { href: "/מחירי-הובלת-דירות/", label: "מחירון הובלות" },
+    ],
+  },
+  {
+    prefix: "/הובלת-משטחים-בירושלים",
+    links: [
+      { href: "/הובלת-משטחים-במרכז/", label: "הובלת משטחים במרכז" },
+      { href: "/אחסון-משטחים/", label: "אחסון משטחים" },
+      { href: "/הצעת-מחיר/", label: "הצעת מחיר" },
+    ],
+  },
+  {
+    prefix: "/הובלת-משטחים-במרכז",
+    links: [
+      { href: "/הובלת-משטחים-בירושלים/", label: "הובלת משטחים בירושלים" },
+      { href: "/אחסון-משטחים/", label: "אחסון משטחים" },
+      { href: "/הצעת-מחיר/", label: "הצעת מחיר" },
+    ],
+  },
+  {
+    prefix: "/אחסון-משטחים",
+    links: [
+      { href: "/הובלת-משטחים-בירושלים/", label: "הובלת משטחים בירושלים" },
+      { href: "/הובלת-משטחים-במרכז/", label: "הובלת משטחים במרכז" },
+      { href: "/הצעת-מחיר/", label: "הצעת מחיר" },
+    ],
+  },
+  {
+    prefix: "/הובלות-באזור-ירושלים",
+    links: [
+      { href: "/", label: "הובלות בירושלים — דף הבית" },
+      { href: "/הובלת-דירה-בירושלים/", label: "הובלת דירה בירושלים" },
+      { href: "/הובלות-בירושלים/", label: "מדריך הובלות בירושלים" },
     ],
   },
   {
@@ -75,12 +107,22 @@ const BY_PATH_PREFIX: { prefix: string; links: HubLink[] }[] = [
 
 function linksForPath(path: string): HubLink[] {
   const p = canonicalPathname(path);
+  let links: HubLink[];
   for (const row of BY_PATH_PREFIX) {
     if (p.startsWith(row.prefix)) {
-      return [...row.links, ...DEFAULT_HUB.filter((d) => !row.links.some((l) => l.href === d.href))].slice(0, 5);
+      links = [...row.links, ...DEFAULT_HUB.filter((d) => !row.links.some((l) => l.href === d.href))].slice(0, 5);
+      break;
     }
   }
-  return DEFAULT_HUB;
+  links ??= [...DEFAULT_HUB];
+
+  const seen = new Set<string>();
+  return links.filter((l) => {
+    const href = canonicalPathname(l.href);
+    if (href === p || seen.has(href)) return false;
+    seen.add(href);
+    return true;
+  });
 }
 
 export function RelatedServicesHub({ path }: { path: string }) {
