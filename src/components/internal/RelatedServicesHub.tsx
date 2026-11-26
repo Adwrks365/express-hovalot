@@ -107,12 +107,22 @@ const BY_PATH_PREFIX: { prefix: string; links: HubLink[] }[] = [
 
 function linksForPath(path: string): HubLink[] {
   const p = canonicalPathname(path);
+  let links: HubLink[];
   for (const row of BY_PATH_PREFIX) {
     if (p.startsWith(row.prefix)) {
-      return [...row.links, ...DEFAULT_HUB.filter((d) => !row.links.some((l) => l.href === d.href))].slice(0, 5);
+      links = [...row.links, ...DEFAULT_HUB.filter((d) => !row.links.some((l) => l.href === d.href))].slice(0, 5);
+      break;
     }
   }
-  return DEFAULT_HUB;
+  links ??= [...DEFAULT_HUB];
+
+  const seen = new Set<string>();
+  return links.filter((l) => {
+    const href = canonicalPathname(l.href);
+    if (href === p || seen.has(href)) return false;
+    seen.add(href);
+    return true;
+  });
 }
 
 export function RelatedServicesHub({ path }: { path: string }) {
